@@ -2,18 +2,18 @@
 
 **Total Problems Solved in this Category:** `6`
 
-[⬅️ Back to Portfolio README](../README.md) | [📊 View Statistics](../stats/progress.md)
+[⬅️ Back to Portfolio README](../README.md) | [📚 All Problems (Sorted by ID)](AllProblems.md) | [📊 View Statistics](../stats/progress.md)
 
 ---
 
-| Problem | Difficulty | Solution Link | LeetCode Link |
-| :--- | :---: | :---: | :---: |
-| [23. Merge k Sorted Lists](../23-merge-k-sorted-lists/) | ![Hard](https://img.shields.io/badge/-Hard-red) | [View Solution](../23-merge-k-sorted-lists/merge-k-sorted-lists.java) | [LeetCode Problem](https://leetcode.com/problems/merge-k-sorted-lists/) |
-| [53. Maximum Subarray](../53-maximum-subarray/) | ![Medium](https://img.shields.io/badge/-Medium-orange) | [View Solution](../53-maximum-subarray/maximum-subarray.java) | [LeetCode Problem](https://leetcode.com/problems/maximum-subarray/) |
-| [108. Convert Sorted Array to Binary Search Tree](../108-convert-sorted-array-to-binary-search-tree/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | [View Solution](../108-convert-sorted-array-to-binary-search-tree/convert-sorted-array-to-binary-search-tree.java) | [LeetCode Problem](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) |
-| [109. Convert Sorted List to Binary Search Tree](../109-convert-sorted-list-to-binary-search-tree/) | ![Medium](https://img.shields.io/badge/-Medium-orange) | [View Solution](../109-convert-sorted-list-to-binary-search-tree/convert-sorted-list-to-binary-search-tree.java) | [LeetCode Problem](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/) |
-| [169. Majority Element](../169-majority-element/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | [View Solution](../169-majority-element/majority-element.java) | [LeetCode Problem](https://leetcode.com/problems/majority-element/) |
-| [918. Maximum Sum Circular Subarray](../954-maximum-sum-circular-subarray/) | ![Medium](https://img.shields.io/badge/-Medium-orange) | [View Solution](../954-maximum-sum-circular-subarray/maximum-sum-circular-subarray.java) | [LeetCode Problem](https://leetcode.com/problems/maximum-sum-circular-subarray/) |
+| Problem | Difficulty | Primary Tags | Solution Link | LeetCode Link |
+| :--- | :---: | :--- | :---: | :---: |
+| [23. Merge k Sorted Lists](../23-merge-k-sorted-lists/) | ![Hard](https://img.shields.io/badge/-Hard-red) | Linked List, Divide and Conquer, Heap (Priority Queue) | [View Solution](../23-merge-k-sorted-lists/merge-k-sorted-lists.java) | [LeetCode Problem](https://leetcode.com/problems/merge-k-sorted-lists/) |
+| [53. Maximum Subarray](../53-maximum-subarray/) | ![Medium](https://img.shields.io/badge/-Medium-orange) | Array, Divide and Conquer, Dynamic Programming | [View Solution](../53-maximum-subarray/maximum-subarray.java) | [LeetCode Problem](https://leetcode.com/problems/maximum-subarray/) |
+| [108. Convert Sorted Array to Binary Search Tree](../108-convert-sorted-array-to-binary-search-tree/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Array, Divide and Conquer, Tree | [View Solution](../108-convert-sorted-array-to-binary-search-tree/convert-sorted-array-to-binary-search-tree.java) | [LeetCode Problem](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) |
+| [109. Convert Sorted List to Binary Search Tree](../109-convert-sorted-list-to-binary-search-tree/) | ![Medium](https://img.shields.io/badge/-Medium-orange) | Linked List, Divide and Conquer, Tree | [View Solution](../109-convert-sorted-list-to-binary-search-tree/convert-sorted-list-to-binary-search-tree.java) | [LeetCode Problem](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/) |
+| [169. Majority Element](../169-majority-element/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Array, Hash Table, Divide and Conquer | [View Solution](../169-majority-element/majority-element.java) | [LeetCode Problem](https://leetcode.com/problems/majority-element/) |
+| [918. Maximum Sum Circular Subarray](../954-maximum-sum-circular-subarray/) | ![Medium](https://img.shields.io/badge/-Medium-orange) | Array, Divide and Conquer, Dynamic Programming | [View Solution](../954-maximum-sum-circular-subarray/maximum-sum-circular-subarray.java) | [LeetCode Problem](https://leetcode.com/problems/maximum-sum-circular-subarray/) |
 
 ---
 

@@ -2,17 +2,17 @@
 
 **Total Problems Solved in this Category:** `5`
 
-[⬅️ Back to Portfolio README](../README.md) | [📊 View Statistics](../stats/progress.md)
+[⬅️ Back to Portfolio README](../README.md) | [📚 All Problems (Sorted by ID)](AllProblems.md) | [📊 View Statistics](../stats/progress.md)
 
 ---
 
-| Problem | Difficulty | Solution Link | LeetCode Link |
-| :--- | :---: | :---: | :---: |
-| [53. Maximum Subarray](../53-maximum-subarray/) | ![Medium](https://img.shields.io/badge/-Medium-orange) | [View Solution](../53-maximum-subarray/maximum-subarray.java) | [LeetCode Problem](https://leetcode.com/problems/maximum-subarray/) |
-| [152. Maximum Product Subarray](../152-maximum-product-subarray/) | ![Medium](https://img.shields.io/badge/-Medium-orange) | [View Solution](../152-maximum-product-subarray/maximum-product-subarray.java) | [LeetCode Problem](https://leetcode.com/problems/maximum-product-subarray/) |
-| [918. Maximum Sum Circular Subarray](../954-maximum-sum-circular-subarray/) | ![Medium](https://img.shields.io/badge/-Medium-orange) | [View Solution](../954-maximum-sum-circular-subarray/maximum-sum-circular-subarray.java) | [LeetCode Problem](https://leetcode.com/problems/maximum-sum-circular-subarray/) |
-| [1186. Maximum Subarray Sum with One Deletion](../1288-maximum-subarray-sum-with-one-deletion/) | ![Medium](https://img.shields.io/badge/-Medium-orange) | [View Solution](../1288-maximum-subarray-sum-with-one-deletion/maximum-subarray-sum-with-one-deletion.java) | [LeetCode Problem](https://leetcode.com/problems/maximum-subarray-sum-with-one-deletion/) |
-| [1749. Maximum Absolute Sum of Any Subarray](../1849-maximum-absolute-sum-of-any-subarray/) | ![Medium](https://img.shields.io/badge/-Medium-orange) | [View Solution](../1849-maximum-absolute-sum-of-any-subarray/maximum-absolute-sum-of-any-subarray.java) | [LeetCode Problem](https://leetcode.com/problems/maximum-absolute-sum-of-any-subarray/) |
+| Problem | Difficulty | Primary Tags | Solution Link | LeetCode Link |
+| :--- | :---: | :--- | :---: | :---: |
+| [53. Maximum Subarray](../53-maximum-subarray/) | ![Medium](https://img.shields.io/badge/-Medium-orange) | Array, Divide and Conquer, Dynamic Programming | [View Solution](../53-maximum-subarray/maximum-subarray.java) | [LeetCode Problem](https://leetcode.com/problems/maximum-subarray/) |
+| [152. Maximum Product Subarray](../152-maximum-product-subarray/) | ![Medium](https://img.shields.io/badge/-Medium-orange) | Array, Dynamic Programming | [View Solution](../152-maximum-product-subarray/maximum-product-subarray.java) | [LeetCode Problem](https://leetcode.com/problems/maximum-product-subarray/) |
+| [918. Maximum Sum Circular Subarray](../954-maximum-sum-circular-subarray/) | ![Medium](https://img.shields.io/badge/-Medium-orange) | Array, Divide and Conquer, Dynamic Programming | [View Solution](../954-maximum-sum-circular-subarray/maximum-sum-circular-subarray.java) | [LeetCode Problem](https://leetcode.com/problems/maximum-sum-circular-subarray/) |
+| [1186. Maximum Subarray Sum with One Deletion](../1288-maximum-subarray-sum-with-one-deletion/) | ![Medium](https://img.shields.io/badge/-Medium-orange) | Array, Dynamic Programming | [View Solution](../1288-maximum-subarray-sum-with-one-deletion/maximum-subarray-sum-with-one-deletion.java) | [LeetCode Problem](https://leetcode.com/problems/maximum-subarray-sum-with-one-deletion/) |
+| [1749. Maximum Absolute Sum of Any Subarray](../1849-maximum-absolute-sum-of-any-subarray/) | ![Medium](https://img.shields.io/badge/-Medium-orange) | Array, Dynamic Programming | [View Solution](../1849-maximum-absolute-sum-of-any-subarray/maximum-absolute-sum-of-any-subarray.java) | [LeetCode Problem](https://leetcode.com/problems/maximum-absolute-sum-of-any-subarray/) |
 
 ---
 

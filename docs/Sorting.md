@@ -2,19 +2,19 @@
 
 **Total Problems Solved in this Category:** `7`
 
-[⬅️ Back to Portfolio README](../README.md) | [📊 View Statistics](../stats/progress.md)
+[⬅️ Back to Portfolio README](../README.md) | [📚 All Problems (Sorted by ID)](AllProblems.md) | [📊 View Statistics](../stats/progress.md)
 
 ---
 
-| Problem | Difficulty | Solution Link | LeetCode Link |
-| :--- | :---: | :---: | :---: |
-| [88. Merge Sorted Array](../88-merge-sorted-array/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | [View Solution](../88-merge-sorted-array/merge-sorted-array.java) | [LeetCode Problem](https://leetcode.com/problems/merge-sorted-array/) |
-| [169. Majority Element](../169-majority-element/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | [View Solution](../169-majority-element/majority-element.java) | [LeetCode Problem](https://leetcode.com/problems/majority-element/) |
-| [217. Contains Duplicate](../217-contains-duplicate/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | [View Solution](../217-contains-duplicate/contains-duplicate.java) | [LeetCode Problem](https://leetcode.com/problems/contains-duplicate/) |
-| [242. Valid Anagram](../242-valid-anagram/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | [View Solution](../242-valid-anagram/valid-anagram.java) | [LeetCode Problem](https://leetcode.com/problems/valid-anagram/) |
-| [747. Largest Number At Least Twice of Others](../748-largest-number-at-least-twice-of-others/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | [View Solution](../748-largest-number-at-least-twice-of-others/largest-number-at-least-twice-of-others.java) | [LeetCode Problem](https://leetcode.com/problems/largest-number-at-least-twice-of-others/) |
-| [881. Boats to Save People](../917-boats-to-save-people/) | ![Medium](https://img.shields.io/badge/-Medium-orange) | [View Solution](../917-boats-to-save-people/boats-to-save-people.java) | [LeetCode Problem](https://leetcode.com/problems/boats-to-save-people/) |
-| [977. Squares of a Sorted Array](../1019-squares-of-a-sorted-array/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | [View Solution](../1019-squares-of-a-sorted-array/squares-of-a-sorted-array.java) | [LeetCode Problem](https://leetcode.com/problems/squares-of-a-sorted-array/) |
+| Problem | Difficulty | Primary Tags | Solution Link | LeetCode Link |
+| :--- | :---: | :--- | :---: | :---: |
+| [88. Merge Sorted Array](../88-merge-sorted-array/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Array, Two Pointers, Sorting | [View Solution](../88-merge-sorted-array/merge-sorted-array.java) | [LeetCode Problem](https://leetcode.com/problems/merge-sorted-array/) |
+| [169. Majority Element](../169-majority-element/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Array, Hash Table, Divide and Conquer | [View Solution](../169-majority-element/majority-element.java) | [LeetCode Problem](https://leetcode.com/problems/majority-element/) |
+| [217. Contains Duplicate](../217-contains-duplicate/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Array, Hash Table, Sorting | [View Solution](../217-contains-duplicate/contains-duplicate.java) | [LeetCode Problem](https://leetcode.com/problems/contains-duplicate/) |
+| [242. Valid Anagram](../242-valid-anagram/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Hash Table, String, Sorting | [View Solution](../242-valid-anagram/valid-anagram.java) | [LeetCode Problem](https://leetcode.com/problems/valid-anagram/) |
+| [747. Largest Number At Least Twice of Others](../748-largest-number-at-least-twice-of-others/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Array, Sorting | [View Solution](../748-largest-number-at-least-twice-of-others/largest-number-at-least-twice-of-others.java) | [LeetCode Problem](https://leetcode.com/problems/largest-number-at-least-twice-of-others/) |
+| [881. Boats to Save People](../917-boats-to-save-people/) | ![Medium](https://img.shields.io/badge/-Medium-orange) | Array, Two Pointers, Greedy | [View Solution](../917-boats-to-save-people/boats-to-save-people.java) | [LeetCode Problem](https://leetcode.com/problems/boats-to-save-people/) |
+| [977. Squares of a Sorted Array](../1019-squares-of-a-sorted-array/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Array, Two Pointers, Sorting | [View Solution](../1019-squares-of-a-sorted-array/squares-of-a-sorted-array.java) | [LeetCode Problem](https://leetcode.com/problems/squares-of-a-sorted-array/) |
 
 ---
 

@@ -2,17 +2,17 @@
 
 **Total Problems Solved in this Category:** `5`
 
-[⬅️ Back to Portfolio README](../README.md) | [📊 View Statistics](../stats/progress.md)
+[⬅️ Back to Portfolio README](../README.md) | [📚 All Problems (Sorted by ID)](AllProblems.md) | [📊 View Statistics](../stats/progress.md)
 
 ---
 
-| Problem | Difficulty | Solution Link | LeetCode Link |
-| :--- | :---: | :---: | :---: |
-| [48. Rotate Image](../48-rotate-image/) | ![Medium](https://img.shields.io/badge/-Medium-orange) | [View Solution](../48-rotate-image/rotate-image.java) | [LeetCode Problem](https://leetcode.com/problems/rotate-image/) |
-| [59. Spiral Matrix II](../59-spiral-matrix-ii/) | ![Medium](https://img.shields.io/badge/-Medium-orange) | [View Solution](../59-spiral-matrix-ii/spiral-matrix-ii.java) | [LeetCode Problem](https://leetcode.com/problems/spiral-matrix-ii/) |
-| [74. Search a 2D Matrix](../74-search-a-2d-matrix/) | ![Medium](https://img.shields.io/badge/-Medium-orange) | [View Solution](../74-search-a-2d-matrix/search-a-2d-matrix.java) | [LeetCode Problem](https://leetcode.com/problems/search-a-2d-matrix/) |
-| [867. Transpose Matrix](../898-transpose-matrix/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | [View Solution](../898-transpose-matrix/transpose-matrix.java) | [LeetCode Problem](https://leetcode.com/problems/transpose-matrix/) |
-| [1572. Matrix Diagonal Sum](../1677-matrix-diagonal-sum/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | [View Solution](../1677-matrix-diagonal-sum/matrix-diagonal-sum.java) | [LeetCode Problem](https://leetcode.com/problems/matrix-diagonal-sum/) |
+| Problem | Difficulty | Primary Tags | Solution Link | LeetCode Link |
+| :--- | :---: | :--- | :---: | :---: |
+| [48. Rotate Image](../48-rotate-image/) | ![Medium](https://img.shields.io/badge/-Medium-orange) | Array, Math, Matrix | [View Solution](../48-rotate-image/rotate-image.java) | [LeetCode Problem](https://leetcode.com/problems/rotate-image/) |
+| [59. Spiral Matrix II](../59-spiral-matrix-ii/) | ![Medium](https://img.shields.io/badge/-Medium-orange) | Array, Matrix, Simulation | [View Solution](../59-spiral-matrix-ii/spiral-matrix-ii.java) | [LeetCode Problem](https://leetcode.com/problems/spiral-matrix-ii/) |
+| [74. Search a 2D Matrix](../74-search-a-2d-matrix/) | ![Medium](https://img.shields.io/badge/-Medium-orange) | Array, Binary Search, Matrix | [View Solution](../74-search-a-2d-matrix/search-a-2d-matrix.java) | [LeetCode Problem](https://leetcode.com/problems/search-a-2d-matrix/) |
+| [867. Transpose Matrix](../898-transpose-matrix/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Array, Matrix, Simulation | [View Solution](../898-transpose-matrix/transpose-matrix.java) | [LeetCode Problem](https://leetcode.com/problems/transpose-matrix/) |
+| [1572. Matrix Diagonal Sum](../1677-matrix-diagonal-sum/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Array, Matrix | [View Solution](../1677-matrix-diagonal-sum/matrix-diagonal-sum.java) | [LeetCode Problem](https://leetcode.com/problems/matrix-diagonal-sum/) |
 
 ---
 

@@ -2,14 +2,14 @@
 
 **Total Problems Solved in this Category:** `2`
 
-[⬅️ Back to Portfolio README](../README.md) | [📊 View Statistics](../stats/progress.md)
+[⬅️ Back to Portfolio README](../README.md) | [📚 All Problems (Sorted by ID)](AllProblems.md) | [📊 View Statistics](../stats/progress.md)
 
 ---
 
-| Problem | Difficulty | Solution Link | LeetCode Link |
-| :--- | :---: | :---: | :---: |
-| [387. First Unique Character in a String](../387-first-unique-character-in-a-string/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | [View Solution](../387-first-unique-character-in-a-string/first-unique-character-in-a-string.java) | [LeetCode Problem](https://leetcode.com/problems/first-unique-character-in-a-string/) |
-| [918. Maximum Sum Circular Subarray](../954-maximum-sum-circular-subarray/) | ![Medium](https://img.shields.io/badge/-Medium-orange) | [View Solution](../954-maximum-sum-circular-subarray/maximum-sum-circular-subarray.java) | [LeetCode Problem](https://leetcode.com/problems/maximum-sum-circular-subarray/) |
+| Problem | Difficulty | Primary Tags | Solution Link | LeetCode Link |
+| :--- | :---: | :--- | :---: | :---: |
+| [387. First Unique Character in a String](../387-first-unique-character-in-a-string/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Hash Table, String, Queue | [View Solution](../387-first-unique-character-in-a-string/first-unique-character-in-a-string.java) | [LeetCode Problem](https://leetcode.com/problems/first-unique-character-in-a-string/) |
+| [918. Maximum Sum Circular Subarray](../954-maximum-sum-circular-subarray/) | ![Medium](https://img.shields.io/badge/-Medium-orange) | Array, Divide and Conquer, Dynamic Programming | [View Solution](../954-maximum-sum-circular-subarray/maximum-sum-circular-subarray.java) | [LeetCode Problem](https://leetcode.com/problems/maximum-sum-circular-subarray/) |
 
 ---
 

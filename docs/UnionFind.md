@@ -2,13 +2,13 @@
 
 **Total Problems Solved in this Category:** `1`
 
-[⬅️ Back to Portfolio README](../README.md) | [📊 View Statistics](../stats/progress.md)
+[⬅️ Back to Portfolio README](../README.md) | [📚 All Problems (Sorted by ID)](AllProblems.md) | [📊 View Statistics](../stats/progress.md)
 
 ---
 
-| Problem | Difficulty | Solution Link | LeetCode Link |
-| :--- | :---: | :---: | :---: |
-| [128. Longest Consecutive Sequence](../128-longest-consecutive-sequence/) | ![Medium](https://img.shields.io/badge/-Medium-orange) | [View Solution](../128-longest-consecutive-sequence/longest-consecutive-sequence.java) | [LeetCode Problem](https://leetcode.com/problems/longest-consecutive-sequence/) |
+| Problem | Difficulty | Primary Tags | Solution Link | LeetCode Link |
+| :--- | :---: | :--- | :---: | :---: |
+| [128. Longest Consecutive Sequence](../128-longest-consecutive-sequence/) | ![Medium](https://img.shields.io/badge/-Medium-orange) | Array, Hash Table, Union-Find | [View Solution](../128-longest-consecutive-sequence/longest-consecutive-sequence.java) | [LeetCode Problem](https://leetcode.com/problems/longest-consecutive-sequence/) |
 
 ---
 

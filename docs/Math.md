@@ -2,20 +2,20 @@
 
 **Total Problems Solved in this Category:** `8`
 
-[⬅️ Back to Portfolio README](../README.md) | [📊 View Statistics](../stats/progress.md)
+[⬅️ Back to Portfolio README](../README.md) | [📚 All Problems (Sorted by ID)](AllProblems.md) | [📊 View Statistics](../stats/progress.md)
 
 ---
 
-| Problem | Difficulty | Solution Link | LeetCode Link |
-| :--- | :---: | :---: | :---: |
-| [2. Add Two Numbers](../2-add-two-numbers/) | ![Medium](https://img.shields.io/badge/-Medium-orange) | [View Solution](../2-add-two-numbers/add-two-numbers.java) | [LeetCode Problem](https://leetcode.com/problems/add-two-numbers/) |
-| [9. Palindrome Number](../9-palindrome-number/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | [View Solution](../9-palindrome-number/palindrome-number.java) | [LeetCode Problem](https://leetcode.com/problems/palindrome-number/) |
-| [48. Rotate Image](../48-rotate-image/) | ![Medium](https://img.shields.io/badge/-Medium-orange) | [View Solution](../48-rotate-image/rotate-image.java) | [LeetCode Problem](https://leetcode.com/problems/rotate-image/) |
-| [69. Sqrt(x)](../69-sqrtx/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | [View Solution](../69-sqrtx/sqrtx.java) | [LeetCode Problem](https://leetcode.com/problems/sqrtx/) |
-| [202. Happy Number](../202-happy-number/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | [View Solution](../202-happy-number/happy-number.java) | [LeetCode Problem](https://leetcode.com/problems/happy-number/) |
-| [263. Ugly Number](../263-ugly-number/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | [View Solution](../263-ugly-number/ugly-number.java) | [LeetCode Problem](https://leetcode.com/problems/ugly-number/) |
-| [326. Power of Three](../326-power-of-three/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | [View Solution](../326-power-of-three/power-of-three.java) | [LeetCode Problem](https://leetcode.com/problems/power-of-three/) |
-| [2816. Double a Number Represented as a Linked List](../2871-double-a-number-represented-as-a-linked-list/) | ![Medium](https://img.shields.io/badge/-Medium-orange) | [View Solution](../2871-double-a-number-represented-as-a-linked-list/double-a-number-represented-as-a-linked-list.java) | [LeetCode Problem](https://leetcode.com/problems/double-a-number-represented-as-a-linked-list/) |
+| Problem | Difficulty | Primary Tags | Solution Link | LeetCode Link |
+| :--- | :---: | :--- | :---: | :---: |
+| [2. Add Two Numbers](../2-add-two-numbers/) | ![Medium](https://img.shields.io/badge/-Medium-orange) | Linked List, Math, Recursion | [View Solution](../2-add-two-numbers/add-two-numbers.java) | [LeetCode Problem](https://leetcode.com/problems/add-two-numbers/) |
+| [9. Palindrome Number](../9-palindrome-number/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Math | [View Solution](../9-palindrome-number/palindrome-number.java) | [LeetCode Problem](https://leetcode.com/problems/palindrome-number/) |
+| [48. Rotate Image](../48-rotate-image/) | ![Medium](https://img.shields.io/badge/-Medium-orange) | Array, Math, Matrix | [View Solution](../48-rotate-image/rotate-image.java) | [LeetCode Problem](https://leetcode.com/problems/rotate-image/) |
+| [69. Sqrt(x)](../69-sqrtx/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Math, Binary Search | [View Solution](../69-sqrtx/sqrtx.java) | [LeetCode Problem](https://leetcode.com/problems/sqrtx/) |
+| [202. Happy Number](../202-happy-number/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Hash Table, Math, Two Pointers | [View Solution](../202-happy-number/happy-number.java) | [LeetCode Problem](https://leetcode.com/problems/happy-number/) |
+| [263. Ugly Number](../263-ugly-number/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Math | [View Solution](../263-ugly-number/ugly-number.java) | [LeetCode Problem](https://leetcode.com/problems/ugly-number/) |
+| [326. Power of Three](../326-power-of-three/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Math, Recursion | [View Solution](../326-power-of-three/power-of-three.java) | [LeetCode Problem](https://leetcode.com/problems/power-of-three/) |
+| [2816. Double a Number Represented as a Linked List](../2871-double-a-number-represented-as-a-linked-list/) | ![Medium](https://img.shields.io/badge/-Medium-orange) | Linked List, Math, Stack | [View Solution](../2871-double-a-number-represented-as-a-linked-list/double-a-number-represented-as-a-linked-list.java) | [LeetCode Problem](https://leetcode.com/problems/double-a-number-represented-as-a-linked-list/) |
 
 ---
 

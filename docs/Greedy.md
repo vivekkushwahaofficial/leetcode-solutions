@@ -2,15 +2,15 @@
 
 **Total Problems Solved in this Category:** `3`
 
-[⬅️ Back to Portfolio README](../README.md) | [📊 View Statistics](../stats/progress.md)
+[⬅️ Back to Portfolio README](../README.md) | [📚 All Problems (Sorted by ID)](AllProblems.md) | [📊 View Statistics](../stats/progress.md)
 
 ---
 
-| Problem | Difficulty | Solution Link | LeetCode Link |
-| :--- | :---: | :---: | :---: |
-| [316. Remove Duplicate Letters](../316-remove-duplicate-letters/) | ![Medium](https://img.shields.io/badge/-Medium-orange) | [View Solution](../316-remove-duplicate-letters/remove-duplicate-letters.java) | [LeetCode Problem](https://leetcode.com/problems/remove-duplicate-letters/) |
-| [881. Boats to Save People](../917-boats-to-save-people/) | ![Medium](https://img.shields.io/badge/-Medium-orange) | [View Solution](../917-boats-to-save-people/boats-to-save-people.java) | [LeetCode Problem](https://leetcode.com/problems/boats-to-save-people/) |
-| [921. Minimum Add to Make Parentheses Valid](../957-minimum-add-to-make-parentheses-valid/) | ![Medium](https://img.shields.io/badge/-Medium-orange) | [View Solution](../957-minimum-add-to-make-parentheses-valid/minimum-add-to-make-parentheses-valid.java) | [LeetCode Problem](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/) |
+| Problem | Difficulty | Primary Tags | Solution Link | LeetCode Link |
+| :--- | :---: | :--- | :---: | :---: |
+| [316. Remove Duplicate Letters](../316-remove-duplicate-letters/) | ![Medium](https://img.shields.io/badge/-Medium-orange) | String, Stack, Greedy | [View Solution](../316-remove-duplicate-letters/remove-duplicate-letters.java) | [LeetCode Problem](https://leetcode.com/problems/remove-duplicate-letters/) |
+| [881. Boats to Save People](../917-boats-to-save-people/) | ![Medium](https://img.shields.io/badge/-Medium-orange) | Array, Two Pointers, Greedy | [View Solution](../917-boats-to-save-people/boats-to-save-people.java) | [LeetCode Problem](https://leetcode.com/problems/boats-to-save-people/) |
+| [921. Minimum Add to Make Parentheses Valid](../957-minimum-add-to-make-parentheses-valid/) | ![Medium](https://img.shields.io/badge/-Medium-orange) | String, Stack, Greedy | [View Solution](../957-minimum-add-to-make-parentheses-valid/minimum-add-to-make-parentheses-valid.java) | [LeetCode Problem](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/) |
 
 ---
 

@@ -2,14 +2,14 @@
 
 **Total Problems Solved in this Category:** `2`
 
-[⬅️ Back to Portfolio README](../README.md) | [📊 View Statistics](../stats/progress.md)
+[⬅️ Back to Portfolio README](../README.md) | [📚 All Problems (Sorted by ID)](AllProblems.md) | [📊 View Statistics](../stats/progress.md)
 
 ---
 
-| Problem | Difficulty | Solution Link | LeetCode Link |
-| :--- | :---: | :---: | :---: |
-| [222. Count Complete Tree Nodes](../222-count-complete-tree-nodes/) | ![Medium](https://img.shields.io/badge/-Medium-orange) | [View Solution](../222-count-complete-tree-nodes/count-complete-tree-nodes.java) | [LeetCode Problem](https://leetcode.com/problems/count-complete-tree-nodes/) |
-| [287. Find the Duplicate Number](../287-find-the-duplicate-number/) | ![Medium](https://img.shields.io/badge/-Medium-orange) | [View Solution](../287-find-the-duplicate-number/find-the-duplicate-number.java) | [LeetCode Problem](https://leetcode.com/problems/find-the-duplicate-number/) |
+| Problem | Difficulty | Primary Tags | Solution Link | LeetCode Link |
+| :--- | :---: | :--- | :---: | :---: |
+| [222. Count Complete Tree Nodes](../222-count-complete-tree-nodes/) | ![Medium](https://img.shields.io/badge/-Medium-orange) | Binary Search, Bit Manipulation, Tree | [View Solution](../222-count-complete-tree-nodes/count-complete-tree-nodes.java) | [LeetCode Problem](https://leetcode.com/problems/count-complete-tree-nodes/) |
+| [287. Find the Duplicate Number](../287-find-the-duplicate-number/) | ![Medium](https://img.shields.io/badge/-Medium-orange) | Array, Two Pointers, Binary Search | [View Solution](../287-find-the-duplicate-number/find-the-duplicate-number.java) | [LeetCode Problem](https://leetcode.com/problems/find-the-duplicate-number/) |
 
 ---
 

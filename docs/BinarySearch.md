@@ -2,18 +2,18 @@
 
 **Total Problems Solved in this Category:** `6`
 
-[⬅️ Back to Portfolio README](../README.md) | [📊 View Statistics](../stats/progress.md)
+[⬅️ Back to Portfolio README](../README.md) | [📚 All Problems (Sorted by ID)](AllProblems.md) | [📊 View Statistics](../stats/progress.md)
 
 ---
 
-| Problem | Difficulty | Solution Link | LeetCode Link |
-| :--- | :---: | :---: | :---: |
-| [69. Sqrt(x)](../69-sqrtx/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | [View Solution](../69-sqrtx/sqrtx.java) | [LeetCode Problem](https://leetcode.com/problems/sqrtx/) |
-| [74. Search a 2D Matrix](../74-search-a-2d-matrix/) | ![Medium](https://img.shields.io/badge/-Medium-orange) | [View Solution](../74-search-a-2d-matrix/search-a-2d-matrix.java) | [LeetCode Problem](https://leetcode.com/problems/search-a-2d-matrix/) |
-| [167. Two Sum II - Input Array Is Sorted](../167-two-sum-ii-input-array-is-sorted/) | ![Medium](https://img.shields.io/badge/-Medium-orange) | [View Solution](../167-two-sum-ii-input-array-is-sorted/two-sum-ii-input-array-is-sorted.java) | [LeetCode Problem](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) |
-| [209. Minimum Size Subarray Sum](../209-minimum-size-subarray-sum/) | ![Medium](https://img.shields.io/badge/-Medium-orange) | [View Solution](../209-minimum-size-subarray-sum/minimum-size-subarray-sum.java) | [LeetCode Problem](https://leetcode.com/problems/minimum-size-subarray-sum/) |
-| [222. Count Complete Tree Nodes](../222-count-complete-tree-nodes/) | ![Medium](https://img.shields.io/badge/-Medium-orange) | [View Solution](../222-count-complete-tree-nodes/count-complete-tree-nodes.java) | [LeetCode Problem](https://leetcode.com/problems/count-complete-tree-nodes/) |
-| [287. Find the Duplicate Number](../287-find-the-duplicate-number/) | ![Medium](https://img.shields.io/badge/-Medium-orange) | [View Solution](../287-find-the-duplicate-number/find-the-duplicate-number.java) | [LeetCode Problem](https://leetcode.com/problems/find-the-duplicate-number/) |
+| Problem | Difficulty | Primary Tags | Solution Link | LeetCode Link |
+| :--- | :---: | :--- | :---: | :---: |
+| [69. Sqrt(x)](../69-sqrtx/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Math, Binary Search | [View Solution](../69-sqrtx/sqrtx.java) | [LeetCode Problem](https://leetcode.com/problems/sqrtx/) |
+| [74. Search a 2D Matrix](../74-search-a-2d-matrix/) | ![Medium](https://img.shields.io/badge/-Medium-orange) | Array, Binary Search, Matrix | [View Solution](../74-search-a-2d-matrix/search-a-2d-matrix.java) | [LeetCode Problem](https://leetcode.com/problems/search-a-2d-matrix/) |
+| [167. Two Sum II - Input Array Is Sorted](../167-two-sum-ii-input-array-is-sorted/) | ![Medium](https://img.shields.io/badge/-Medium-orange) | Array, Two Pointers, Binary Search | [View Solution](../167-two-sum-ii-input-array-is-sorted/two-sum-ii-input-array-is-sorted.java) | [LeetCode Problem](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) |
+| [209. Minimum Size Subarray Sum](../209-minimum-size-subarray-sum/) | ![Medium](https://img.shields.io/badge/-Medium-orange) | Array, Binary Search, Sliding Window | [View Solution](../209-minimum-size-subarray-sum/minimum-size-subarray-sum.java) | [LeetCode Problem](https://leetcode.com/problems/minimum-size-subarray-sum/) |
+| [222. Count Complete Tree Nodes](../222-count-complete-tree-nodes/) | ![Medium](https://img.shields.io/badge/-Medium-orange) | Binary Search, Bit Manipulation, Tree | [View Solution](../222-count-complete-tree-nodes/count-complete-tree-nodes.java) | [LeetCode Problem](https://leetcode.com/problems/count-complete-tree-nodes/) |
+| [287. Find the Duplicate Number](../287-find-the-duplicate-number/) | ![Medium](https://img.shields.io/badge/-Medium-orange) | Array, Two Pointers, Binary Search | [View Solution](../287-find-the-duplicate-number/find-the-duplicate-number.java) | [LeetCode Problem](https://leetcode.com/problems/find-the-duplicate-number/) |
 
 ---
 

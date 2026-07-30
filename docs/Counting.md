@@ -2,15 +2,15 @@
 
 **Total Problems Solved in this Category:** `3`
 
-[⬅️ Back to Portfolio README](../README.md) | [📊 View Statistics](../stats/progress.md)
+[⬅️ Back to Portfolio README](../README.md) | [📚 All Problems (Sorted by ID)](AllProblems.md) | [📊 View Statistics](../stats/progress.md)
 
 ---
 
-| Problem | Difficulty | Solution Link | LeetCode Link |
-| :--- | :---: | :---: | :---: |
-| [169. Majority Element](../169-majority-element/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | [View Solution](../169-majority-element/majority-element.java) | [LeetCode Problem](https://leetcode.com/problems/majority-element/) |
-| [387. First Unique Character in a String](../387-first-unique-character-in-a-string/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | [View Solution](../387-first-unique-character-in-a-string/first-unique-character-in-a-string.java) | [LeetCode Problem](https://leetcode.com/problems/first-unique-character-in-a-string/) |
-| [1897. Redistribute Characters to Make All Strings Equal](../2025-redistribute-characters-to-make-all-strings-equal/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | [View Solution](../2025-redistribute-characters-to-make-all-strings-equal/redistribute-characters-to-make-all-strings-equal.java) | [LeetCode Problem](https://leetcode.com/problems/redistribute-characters-to-make-all-strings-equal/) |
+| Problem | Difficulty | Primary Tags | Solution Link | LeetCode Link |
+| :--- | :---: | :--- | :---: | :---: |
+| [169. Majority Element](../169-majority-element/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Array, Hash Table, Divide and Conquer | [View Solution](../169-majority-element/majority-element.java) | [LeetCode Problem](https://leetcode.com/problems/majority-element/) |
+| [387. First Unique Character in a String](../387-first-unique-character-in-a-string/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Hash Table, String, Queue | [View Solution](../387-first-unique-character-in-a-string/first-unique-character-in-a-string.java) | [LeetCode Problem](https://leetcode.com/problems/first-unique-character-in-a-string/) |
+| [1897. Redistribute Characters to Make All Strings Equal](../2025-redistribute-characters-to-make-all-strings-equal/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Hash Table, String, Counting | [View Solution](../2025-redistribute-characters-to-make-all-strings-equal/redistribute-characters-to-make-all-strings-equal.java) | [LeetCode Problem](https://leetcode.com/problems/redistribute-characters-to-make-all-strings-equal/) |
 
 ---
 

@@ -15,6 +15,7 @@
 ---
 
 ## 📌 Table of Contents
+- [📚 All Problems (Sorted Numerically)](docs/AllProblems.md)
 - [📊 Progress Overview](#-progress-overview)
 - [🎯 Difficulty Breakdown](#-difficulty-breakdown)
 - [🧩 Pattern & Topic Index](#-pattern--topic-index)
@@ -33,14 +34,15 @@
 | 🟢 **Easy** | 52 | 55.9% | [View Easy Solutions](docs/Easy.md) |
 | 🟠 **Medium** | 40 | 43.0% | [View Medium Solutions](docs/Medium.md) |
 | 🔴 **Hard** | 1 | 1.1% | [View Hard Solutions](docs/Hard.md) |
-| 🏆 **Total** | **93** | **100.0%** | [Full Stats](stats/progress.md) |
+| 🏆 **Total** | **93** | **100.0%** | [All Problems Index](docs/AllProblems.md) | [Full Stats](stats/progress.md) |
 
 ---
 
-## 🎯 Difficulty Breakdown
+## 🎯 Difficulty Breakdown & Index
 
-Quickly filter solutions by problem difficulty:
+Quickly browse or filter solutions by problem number and difficulty:
 
+- 📚 **[All Problems Index](docs/AllProblems.md)** - Master list of all solved problems sorted numerically by Problem ID (1, 2, 3...).
 - 🟢 **[Easy Problems](docs/Easy.md)** - Fundamental data structures, basic syntax, and array/string manipulations.
 - 🟠 **[Medium Problems](docs/Medium.md)** - Two pointers, sliding window, binary search, tree traversals, and dynamic programming foundations.
 - 🔴 **[Hard Problems](docs/Hard.md)** - Advanced graph algorithms, complex dynamic programming, segment trees, and hard constraint optimizations.

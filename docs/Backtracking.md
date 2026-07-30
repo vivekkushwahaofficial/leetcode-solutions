@@ -2,13 +2,13 @@
 
 **Total Problems Solved in this Category:** `1`
 
-[⬅️ Back to Portfolio README](../README.md) | [📊 View Statistics](../stats/progress.md)
+[⬅️ Back to Portfolio README](../README.md) | [📚 All Problems (Sorted by ID)](AllProblems.md) | [📊 View Statistics](../stats/progress.md)
 
 ---
 
-| Problem | Difficulty | Solution Link | LeetCode Link |
-| :--- | :---: | :---: | :---: |
-| [257. Binary Tree Paths](../257-binary-tree-paths/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | [View Solution](../257-binary-tree-paths/binary-tree-paths.java) | [LeetCode Problem](https://leetcode.com/problems/binary-tree-paths/) |
+| Problem | Difficulty | Primary Tags | Solution Link | LeetCode Link |
+| :--- | :---: | :--- | :---: | :---: |
+| [257. Binary Tree Paths](../257-binary-tree-paths/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | String, Backtracking, Tree | [View Solution](../257-binary-tree-paths/binary-tree-paths.java) | [LeetCode Problem](https://leetcode.com/problems/binary-tree-paths/) |
 
 ---
 

@@ -2,14 +2,14 @@
 
 **Total Problems Solved in this Category:** `2`
 
-[⬅️ Back to Portfolio README](../README.md) | [📊 View Statistics](../stats/progress.md)
+[⬅️ Back to Portfolio README](../README.md) | [📚 All Problems (Sorted by ID)](AllProblems.md) | [📊 View Statistics](../stats/progress.md)
 
 ---
 
-| Problem | Difficulty | Solution Link | LeetCode Link |
-| :--- | :---: | :---: | :---: |
-| [23. Merge k Sorted Lists](../23-merge-k-sorted-lists/) | ![Hard](https://img.shields.io/badge/-Hard-red) | [View Solution](../23-merge-k-sorted-lists/merge-k-sorted-lists.java) | [LeetCode Problem](https://leetcode.com/problems/merge-k-sorted-lists/) |
-| [1046. Last Stone Weight](../1127-last-stone-weight/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | [View Solution](../1127-last-stone-weight/last-stone-weight.java) | [LeetCode Problem](https://leetcode.com/problems/last-stone-weight/) |
+| Problem | Difficulty | Primary Tags | Solution Link | LeetCode Link |
+| :--- | :---: | :--- | :---: | :---: |
+| [23. Merge k Sorted Lists](../23-merge-k-sorted-lists/) | ![Hard](https://img.shields.io/badge/-Hard-red) | Linked List, Divide and Conquer, Heap (Priority Queue) | [View Solution](../23-merge-k-sorted-lists/merge-k-sorted-lists.java) | [LeetCode Problem](https://leetcode.com/problems/merge-k-sorted-lists/) |
+| [1046. Last Stone Weight](../1127-last-stone-weight/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Array, Heap (Priority Queue) | [View Solution](../1127-last-stone-weight/last-stone-weight.java) | [LeetCode Problem](https://leetcode.com/problems/last-stone-weight/) |
 
 ---
 

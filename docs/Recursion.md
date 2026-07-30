@@ -2,18 +2,18 @@
 
 **Total Problems Solved in this Category:** `6`
 
-[⬅️ Back to Portfolio README](../README.md) | [📊 View Statistics](../stats/progress.md)
+[⬅️ Back to Portfolio README](../README.md) | [📚 All Problems (Sorted by ID)](AllProblems.md) | [📊 View Statistics](../stats/progress.md)
 
 ---
 
-| Problem | Difficulty | Solution Link | LeetCode Link |
-| :--- | :---: | :---: | :---: |
-| [2. Add Two Numbers](../2-add-two-numbers/) | ![Medium](https://img.shields.io/badge/-Medium-orange) | [View Solution](../2-add-two-numbers/add-two-numbers.java) | [LeetCode Problem](https://leetcode.com/problems/add-two-numbers/) |
-| [21. Merge Two Sorted Lists](../21-merge-two-sorted-lists/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | [View Solution](../21-merge-two-sorted-lists/merge-two-sorted-lists.java) | [LeetCode Problem](https://leetcode.com/problems/merge-two-sorted-lists/) |
-| [203. Remove Linked List Elements](../203-remove-linked-list-elements/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | [View Solution](../203-remove-linked-list-elements/remove-linked-list-elements.java) | [LeetCode Problem](https://leetcode.com/problems/remove-linked-list-elements/) |
-| [206. Reverse Linked List](../206-reverse-linked-list/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | [View Solution](../206-reverse-linked-list/reverse-linked-list.java) | [LeetCode Problem](https://leetcode.com/problems/reverse-linked-list/) |
-| [326. Power of Three](../326-power-of-three/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | [View Solution](../326-power-of-three/power-of-three.java) | [LeetCode Problem](https://leetcode.com/problems/power-of-three/) |
-| [394. Decode String](../394-decode-string/) | ![Medium](https://img.shields.io/badge/-Medium-orange) | [View Solution](../394-decode-string/decode-string.java) | [LeetCode Problem](https://leetcode.com/problems/decode-string/) |
+| Problem | Difficulty | Primary Tags | Solution Link | LeetCode Link |
+| :--- | :---: | :--- | :---: | :---: |
+| [2. Add Two Numbers](../2-add-two-numbers/) | ![Medium](https://img.shields.io/badge/-Medium-orange) | Linked List, Math, Recursion | [View Solution](../2-add-two-numbers/add-two-numbers.java) | [LeetCode Problem](https://leetcode.com/problems/add-two-numbers/) |
+| [21. Merge Two Sorted Lists](../21-merge-two-sorted-lists/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Linked List, Recursion | [View Solution](../21-merge-two-sorted-lists/merge-two-sorted-lists.java) | [LeetCode Problem](https://leetcode.com/problems/merge-two-sorted-lists/) |
+| [203. Remove Linked List Elements](../203-remove-linked-list-elements/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Linked List, Recursion | [View Solution](../203-remove-linked-list-elements/remove-linked-list-elements.java) | [LeetCode Problem](https://leetcode.com/problems/remove-linked-list-elements/) |
+| [206. Reverse Linked List](../206-reverse-linked-list/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Linked List, Recursion | [View Solution](../206-reverse-linked-list/reverse-linked-list.java) | [LeetCode Problem](https://leetcode.com/problems/reverse-linked-list/) |
+| [326. Power of Three](../326-power-of-three/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Math, Recursion | [View Solution](../326-power-of-three/power-of-three.java) | [LeetCode Problem](https://leetcode.com/problems/power-of-three/) |
+| [394. Decode String](../394-decode-string/) | ![Medium](https://img.shields.io/badge/-Medium-orange) | String, Stack, Recursion | [View Solution](../394-decode-string/decode-string.java) | [LeetCode Problem](https://leetcode.com/problems/decode-string/) |
 
 ---
 

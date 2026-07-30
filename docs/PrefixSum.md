@@ -2,19 +2,19 @@
 
 **Total Problems Solved in this Category:** `7`
 
-[⬅️ Back to Portfolio README](../README.md) | [📊 View Statistics](../stats/progress.md)
+[⬅️ Back to Portfolio README](../README.md) | [📚 All Problems (Sorted by ID)](AllProblems.md) | [📊 View Statistics](../stats/progress.md)
 
 ---
 
-| Problem | Difficulty | Solution Link | LeetCode Link |
-| :--- | :---: | :---: | :---: |
-| [209. Minimum Size Subarray Sum](../209-minimum-size-subarray-sum/) | ![Medium](https://img.shields.io/badge/-Medium-orange) | [View Solution](../209-minimum-size-subarray-sum/minimum-size-subarray-sum.java) | [LeetCode Problem](https://leetcode.com/problems/minimum-size-subarray-sum/) |
-| [525. Contiguous Array](../525-contiguous-array/) | ![Medium](https://img.shields.io/badge/-Medium-orange) | [View Solution](../525-contiguous-array/contiguous-array.java) | [LeetCode Problem](https://leetcode.com/problems/contiguous-array/) |
-| [560. Subarray Sum Equals K](../560-subarray-sum-equals-k/) | ![Medium](https://img.shields.io/badge/-Medium-orange) | [View Solution](../560-subarray-sum-equals-k/subarray-sum-equals-k.java) | [LeetCode Problem](https://leetcode.com/problems/subarray-sum-equals-k/) |
-| [724. Find Pivot Index](../724-find-pivot-index/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | [View Solution](../724-find-pivot-index/find-pivot-index.java) | [LeetCode Problem](https://leetcode.com/problems/find-pivot-index/) |
-| [974. Subarray Sums Divisible by K](../1016-subarray-sums-divisible-by-k/) | ![Medium](https://img.shields.io/badge/-Medium-orange) | [View Solution](../1016-subarray-sums-divisible-by-k/subarray-sums-divisible-by-k.java) | [LeetCode Problem](https://leetcode.com/problems/subarray-sums-divisible-by-k/) |
-| [1413. Minimum Value to Get Positive Step by Step Sum](../1514-minimum-value-to-get-positive-step-by-step-sum/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | [View Solution](../1514-minimum-value-to-get-positive-step-by-step-sum/minimum-value-to-get-positive-step-by-step-sum.java) | [LeetCode Problem](https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum/) |
-| [1480. Running Sum of 1d Array](../1603-running-sum-of-1d-array/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | [View Solution](../1603-running-sum-of-1d-array/running-sum-of-1d-array.java) | [LeetCode Problem](https://leetcode.com/problems/running-sum-of-1d-array/) |
+| Problem | Difficulty | Primary Tags | Solution Link | LeetCode Link |
+| :--- | :---: | :--- | :---: | :---: |
+| [209. Minimum Size Subarray Sum](../209-minimum-size-subarray-sum/) | ![Medium](https://img.shields.io/badge/-Medium-orange) | Array, Binary Search, Sliding Window | [View Solution](../209-minimum-size-subarray-sum/minimum-size-subarray-sum.java) | [LeetCode Problem](https://leetcode.com/problems/minimum-size-subarray-sum/) |
+| [525. Contiguous Array](../525-contiguous-array/) | ![Medium](https://img.shields.io/badge/-Medium-orange) | Array, Hash Table, Prefix Sum | [View Solution](../525-contiguous-array/contiguous-array.java) | [LeetCode Problem](https://leetcode.com/problems/contiguous-array/) |
+| [560. Subarray Sum Equals K](../560-subarray-sum-equals-k/) | ![Medium](https://img.shields.io/badge/-Medium-orange) | Array, Hash Table, Prefix Sum | [View Solution](../560-subarray-sum-equals-k/subarray-sum-equals-k.java) | [LeetCode Problem](https://leetcode.com/problems/subarray-sum-equals-k/) |
+| [724. Find Pivot Index](../724-find-pivot-index/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Array, Prefix Sum | [View Solution](../724-find-pivot-index/find-pivot-index.java) | [LeetCode Problem](https://leetcode.com/problems/find-pivot-index/) |
+| [974. Subarray Sums Divisible by K](../1016-subarray-sums-divisible-by-k/) | ![Medium](https://img.shields.io/badge/-Medium-orange) | Array, Hash Table, Prefix Sum | [View Solution](../1016-subarray-sums-divisible-by-k/subarray-sums-divisible-by-k.java) | [LeetCode Problem](https://leetcode.com/problems/subarray-sums-divisible-by-k/) |
+| [1413. Minimum Value to Get Positive Step by Step Sum](../1514-minimum-value-to-get-positive-step-by-step-sum/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Array, Prefix Sum | [View Solution](../1514-minimum-value-to-get-positive-step-by-step-sum/minimum-value-to-get-positive-step-by-step-sum.java) | [LeetCode Problem](https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum/) |
+| [1480. Running Sum of 1d Array](../1603-running-sum-of-1d-array/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Array, Prefix Sum | [View Solution](../1603-running-sum-of-1d-array/running-sum-of-1d-array.java) | [LeetCode Problem](https://leetcode.com/problems/running-sum-of-1d-array/) |
 
 ---
 

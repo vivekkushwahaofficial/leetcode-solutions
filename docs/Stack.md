@@ -2,20 +2,20 @@
 
 **Total Problems Solved in this Category:** `8`
 
-[⬅️ Back to Portfolio README](../README.md) | [📊 View Statistics](../stats/progress.md)
+[⬅️ Back to Portfolio README](../README.md) | [📚 All Problems (Sorted by ID)](AllProblems.md) | [📊 View Statistics](../stats/progress.md)
 
 ---
 
-| Problem | Difficulty | Solution Link | LeetCode Link |
-| :--- | :---: | :---: | :---: |
-| [20. Valid Parentheses](../20-valid-parentheses/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | [View Solution](../20-valid-parentheses/valid-parentheses.java) | [LeetCode Problem](https://leetcode.com/problems/valid-parentheses/) |
-| [145. Binary Tree Postorder Traversal](../145-binary-tree-postorder-traversal/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | [View Solution](../145-binary-tree-postorder-traversal/binary-tree-postorder-traversal.java) | [LeetCode Problem](https://leetcode.com/problems/binary-tree-postorder-traversal/) |
-| [316. Remove Duplicate Letters](../316-remove-duplicate-letters/) | ![Medium](https://img.shields.io/badge/-Medium-orange) | [View Solution](../316-remove-duplicate-letters/remove-duplicate-letters.java) | [LeetCode Problem](https://leetcode.com/problems/remove-duplicate-letters/) |
-| [394. Decode String](../394-decode-string/) | ![Medium](https://img.shields.io/badge/-Medium-orange) | [View Solution](../394-decode-string/decode-string.java) | [LeetCode Problem](https://leetcode.com/problems/decode-string/) |
-| [921. Minimum Add to Make Parentheses Valid](../957-minimum-add-to-make-parentheses-valid/) | ![Medium](https://img.shields.io/badge/-Medium-orange) | [View Solution](../957-minimum-add-to-make-parentheses-valid/minimum-add-to-make-parentheses-valid.java) | [LeetCode Problem](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/) |
-| [1019. Next Greater Node In Linked List](../1072-next-greater-node-in-linked-list/) | ![Medium](https://img.shields.io/badge/-Medium-orange) | [View Solution](../1072-next-greater-node-in-linked-list/next-greater-node-in-linked-list.java) | [LeetCode Problem](https://leetcode.com/problems/next-greater-node-in-linked-list/) |
-| [1047. Remove All Adjacent Duplicates In String](../1128-remove-all-adjacent-duplicates-in-string/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | [View Solution](../1128-remove-all-adjacent-duplicates-in-string/remove-all-adjacent-duplicates-in-string.java) | [LeetCode Problem](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) |
-| [2816. Double a Number Represented as a Linked List](../2871-double-a-number-represented-as-a-linked-list/) | ![Medium](https://img.shields.io/badge/-Medium-orange) | [View Solution](../2871-double-a-number-represented-as-a-linked-list/double-a-number-represented-as-a-linked-list.java) | [LeetCode Problem](https://leetcode.com/problems/double-a-number-represented-as-a-linked-list/) |
+| Problem | Difficulty | Primary Tags | Solution Link | LeetCode Link |
+| :--- | :---: | :--- | :---: | :---: |
+| [20. Valid Parentheses](../20-valid-parentheses/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | String, Stack | [View Solution](../20-valid-parentheses/valid-parentheses.java) | [LeetCode Problem](https://leetcode.com/problems/valid-parentheses/) |
+| [145. Binary Tree Postorder Traversal](../145-binary-tree-postorder-traversal/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Stack, Tree, Depth-First Search | [View Solution](../145-binary-tree-postorder-traversal/binary-tree-postorder-traversal.java) | [LeetCode Problem](https://leetcode.com/problems/binary-tree-postorder-traversal/) |
+| [316. Remove Duplicate Letters](../316-remove-duplicate-letters/) | ![Medium](https://img.shields.io/badge/-Medium-orange) | String, Stack, Greedy | [View Solution](../316-remove-duplicate-letters/remove-duplicate-letters.java) | [LeetCode Problem](https://leetcode.com/problems/remove-duplicate-letters/) |
+| [394. Decode String](../394-decode-string/) | ![Medium](https://img.shields.io/badge/-Medium-orange) | String, Stack, Recursion | [View Solution](../394-decode-string/decode-string.java) | [LeetCode Problem](https://leetcode.com/problems/decode-string/) |
+| [921. Minimum Add to Make Parentheses Valid](../957-minimum-add-to-make-parentheses-valid/) | ![Medium](https://img.shields.io/badge/-Medium-orange) | String, Stack, Greedy | [View Solution](../957-minimum-add-to-make-parentheses-valid/minimum-add-to-make-parentheses-valid.java) | [LeetCode Problem](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/) |
+| [1019. Next Greater Node In Linked List](../1072-next-greater-node-in-linked-list/) | ![Medium](https://img.shields.io/badge/-Medium-orange) | Array, Linked List, Stack | [View Solution](../1072-next-greater-node-in-linked-list/next-greater-node-in-linked-list.java) | [LeetCode Problem](https://leetcode.com/problems/next-greater-node-in-linked-list/) |
+| [1047. Remove All Adjacent Duplicates In String](../1128-remove-all-adjacent-duplicates-in-string/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | String, Stack | [View Solution](../1128-remove-all-adjacent-duplicates-in-string/remove-all-adjacent-duplicates-in-string.java) | [LeetCode Problem](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) |
+| [2816. Double a Number Represented as a Linked List](../2871-double-a-number-represented-as-a-linked-list/) | ![Medium](https://img.shields.io/badge/-Medium-orange) | Linked List, Math, Stack | [View Solution](../2871-double-a-number-represented-as-a-linked-list/double-a-number-represented-as-a-linked-list.java) | [LeetCode Problem](https://leetcode.com/problems/double-a-number-represented-as-a-linked-list/) |
 
 ---
 
