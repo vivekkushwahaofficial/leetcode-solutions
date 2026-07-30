@@ -1,19 +1,120 @@
-# LeetCode Solutions in Java
+<div align="center">
 
-Welcome to my personal repository of LeetCode solutions. This repository serves as a tracker for my algorithmic problem-solving journey and interview preparation. All solutions are structured, optimized, and implemented cleanly using Java.
+# ⚡ LeetCode Solutions Portfolio
 
-## 📁 Repository Structure
+### Automated, Structured & Pattern-Categorized Algorithm Solutions
 
-The repository organizes each problem into its own independent directory named after the LeetCode problem ID and title slug. Within each directory, you will find:
-* A `*.java` file containing the clean, well-commented source code solution.
-* A `README.md` file detailing the problem statement, constraints, and approach details.
+![Total Solved](https://img.shields.io/badge/Total%20Solved-93-blue?style=for-the-badge&logo=leetcode)
+![Easy](https://img.shields.io/badge/Easy-52-brightgreen?style=for-the-badge)
+![Medium](https://img.shields.io/badge/Medium-40-orange?style=for-the-badge)
+![Hard](https://img.shields.io/badge/Hard-1-red?style=for-the-badge)
+![Auto Updated](https://img.shields.io/badge/Status-Auto%20Updated-success?style=for-the-badge&logo=githubactions)
 
-```text
-leetcode-solutions/
-├── 1-two-sum/
-│   ├── README.md
-│   └── two-sum.java
-├── 101-symmetric-tree/
-│   ├── README.md
-│   └── symmetric-tree.java
-└── ...
+</div>
+
+---
+
+## 📌 Table of Contents
+- [📊 Progress Overview](#-progress-overview)
+- [🎯 Difficulty Breakdown](#-difficulty-breakdown)
+- [🧩 Pattern & Topic Index](#-pattern--topic-index)
+- [🕒 Recently Solved Problems](#-recently-solved-problems)
+- [📈 Detailed Statistics & Analytics](#-detailed-statistics--analytics)
+- [⚙️ Workflow & Automation](#%EF%B8%8F-workflow--automation)
+
+---
+
+## 📊 Progress Overview
+
+**LeetCode Journey Target Progress:** `[█░░░░░░░░░░░░░░░░░░░░░░░░] 93/3500 (2.7%)`
+
+| Metric | Count | Percentage | Documentation |
+| :--- | :---: | :---: | :---: |
+| 🟢 **Easy** | 52 | 55.9% | [View Easy Solutions](docs/Easy.md) |
+| 🟠 **Medium** | 40 | 43.0% | [View Medium Solutions](docs/Medium.md) |
+| 🔴 **Hard** | 1 | 1.1% | [View Hard Solutions](docs/Hard.md) |
+| 🏆 **Total** | **93** | **100.0%** | [Full Stats](stats/progress.md) |
+
+---
+
+## 🎯 Difficulty Breakdown
+
+Quickly filter solutions by problem difficulty:
+
+- 🟢 **[Easy Problems](docs/Easy.md)** - Fundamental data structures, basic syntax, and array/string manipulations.
+- 🟠 **[Medium Problems](docs/Medium.md)** - Two pointers, sliding window, binary search, tree traversals, and dynamic programming foundations.
+- 🔴 **[Hard Problems](docs/Hard.md)** - Advanced graph algorithms, complex dynamic programming, segment trees, and hard constraint optimizations.
+
+---
+
+## 🧩 Pattern & Topic Index
+
+Explore problems grouped by algorithmic pattern and data structure:
+
+| Pattern / Topic | Problems Solved | Document Link |
+| :--- | :---: | :---: |
+| 🏷️ **Arrays** | 36 | [View Arrays Solutions](docs/Arrays.md) |
+| 🏷️ **Strings** | 20 | [View Strings Solutions](docs/Strings.md) |
+| 🏷️ **HashMap** | 17 | [View HashMap Solutions](docs/HashMap.md) |
+| 🏷️ **SlidingWindow** | 3 | [View SlidingWindow Solutions](docs/SlidingWindow.md) |
+| 🏷️ **TwoPointers** | 19 | [View TwoPointers Solutions](docs/TwoPointers.md) |
+| 🏷️ **BinarySearch** | 6 | [View BinarySearch Solutions](docs/BinarySearch.md) |
+| 🏷️ **Stack** | 8 | [View Stack Solutions](docs/Stack.md) |
+| 🏷️ **Queue** | 2 | [View Queue Solutions](docs/Queue.md) |
+| 🏷️ **LinkedList** | 18 | [View LinkedList Solutions](docs/LinkedList.md) |
+| 🏷️ **Tree** | 39 | [View Tree Solutions](docs/Tree.md) |
+| 🏷️ **BST** | 7 | [View BST Solutions](docs/BST.md) |
+| 🏷️ **Heap** | 2 | [View Heap Solutions](docs/Heap.md) |
+| 🏷️ **Graph** | 0 | [View Graph Solutions](docs/Graph.md) |
+| 🏷️ **Trie** | 0 | [View Trie Solutions](docs/Trie.md) |
+| 🏷️ **Greedy** | 3 | [View Greedy Solutions](docs/Greedy.md) |
+| 🏷️ **Backtracking** | 1 | [View Backtracking Solutions](docs/Backtracking.md) |
+| 🏷️ **DynamicProgramming** | 5 | [View DynamicProgramming Solutions](docs/DynamicProgramming.md) |
+| 🏷️ **BitManipulation** | 2 | [View BitManipulation Solutions](docs/BitManipulation.md) |
+| 🏷️ **Math** | 8 | [View Math Solutions](docs/Math.md) |
+| 🏷️ **PrefixSum** | 7 | [View PrefixSum Solutions](docs/PrefixSum.md) |
+| 🏷️ **Intervals** | 0 | [View Intervals Solutions](docs/Intervals.md) |
+| 🏷️ **Matrix** | 5 | [View Matrix Solutions](docs/Matrix.md) |
+| 🏷️ **Recursion** | 6 | [View Recursion Solutions](docs/Recursion.md) |
+| 🏷️ **BinaryTree** | 19 | [View BinaryTree Solutions](docs/BinaryTree.md) |
+| 🏷️ **UnionFind** | 0 | [View UnionFind Solutions](docs/UnionFind.md) |
+| 🏷️ **MonotonicStack** | 2 | [View MonotonicStack Solutions](docs/MonotonicStack.md) |
+| 🏷️ **TopologicalSort** | 0 | [View TopologicalSort Solutions](docs/TopologicalSort.md) |
+
+---
+
+## 🕒 Recently Solved Problems
+
+| # | Problem Title | Difficulty | Solution | Date Added |
+| :---: | :--- | :---: | :---: | :---: |
+| 1047 | [1047. Remove All Adjacent Duplicates In String](1128-remove-all-adjacent-duplicates-in-string/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | [Solution](1128-remove-all-adjacent-duplicates-in-string/remove-all-adjacent-duplicates-in-string.java) | 2026-07-31 |
+| 771 | [771. Jewels and Stones](782-jewels-and-stones/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | [Solution](782-jewels-and-stones/jewels-and-stones.java) | 2026-07-29 |
+| 205 | [205. Isomorphic Strings](205-isomorphic-strings/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | [Solution](205-isomorphic-strings/isomorphic-strings.java) | 2026-07-29 |
+| 387 | [387. First Unique Character in a String](387-first-unique-character-in-a-string/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | [Solution](387-first-unique-character-in-a-string/first-unique-character-in-a-string.java) | 2026-07-26 |
+| 344 | [344. Reverse String](344-reverse-string/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | [Solution](344-reverse-string/reverse-string.java) | 2026-07-25 |
+| 974 | [974. Subarray Sums Divisible by K](1016-subarray-sums-divisible-by-k/) | ![Medium](https://img.shields.io/badge/-Medium-orange) | [Solution](1016-subarray-sums-divisible-by-k/subarray-sums-divisible-by-k.java) | 2026-07-24 |
+| 1678 | [1678. Goal Parser Interpretation](1797-goal-parser-interpretation/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | [Solution](1797-goal-parser-interpretation/goal-parser-interpretation.java) | 2026-07-23 |
+| 1528 | [1528. Shuffle String](1651-shuffle-string/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | [Solution](1651-shuffle-string/shuffle-string.java) | 2026-07-22 |
+| 1108 | [1108. Defanging an IP Address](1205-defanging-an-ip-address/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | [Solution](1205-defanging-an-ip-address/defanging-an-ip-address.java) | 2026-07-21 |
+| 169 | [169. Majority Element](169-majority-element/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | [Solution](169-majority-element/majority-element.java) | 2026-07-19 |
+
+---
+
+## 📈 Detailed Statistics & Analytics
+
+For interactive Mermaid charts, timeline metrics, weekly/monthly growth tracking, visit the dedicated statistics page:
+➡️ **[View Complete Progress & Analytics (stats/progress.md)](stats/progress.md)**
+
+---
+
+## ⚙️ Workflow & Automation
+
+This repository is integrated with **LeetSync** and powered by custom **GitHub Actions**:
+1. **LeetSync Push**: Automatically pushes newly solved LeetCode solutions into standard `<id>-<slug>/` directories.
+2. **Metadata Fetching**: Uses LeetCode GraphQL API to resolve tags, difficulty, and metadata without manual input.
+3. **Idempotent Regeneration**: Automatically updates `README.md`, `docs/`, and `stats/progress.md` upon every push without modifying solution code.
+
+<div align="center">
+<br>
+<i>Generated automatically by GitHub Actions workflow. Built with Python 3.12.</i>
+</div>
