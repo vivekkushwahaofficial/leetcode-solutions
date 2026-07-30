@@ -1,6 +1,6 @@
 # 🏷️ DynamicProgramming Pattern
 
-**Total Problems Solved in this Category:** `5`
+**Total Problems Solved in this Category:** `6`
 
 [⬅️ Back to Portfolio README](../README.md) | [📚 All Problems (Sorted by ID)](AllProblems.md) | [📊 View Statistics](../stats/progress.md)
 
@@ -9,6 +9,7 @@
 | Problem | Difficulty | Primary Tags | Solution Link | LeetCode Link |
 | :--- | :---: | :--- | :---: | :---: |
 | [53. Maximum Subarray](../53-maximum-subarray/) | ![Medium](https://img.shields.io/badge/-Medium-orange) | Array, Divide and Conquer, Dynamic Programming | [View Solution](../53-maximum-subarray/maximum-subarray.java) | [LeetCode Problem](https://leetcode.com/problems/maximum-subarray/) |
+| [70. Climbing Stairs](../70-climbing-stairs/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Math, Dynamic Programming, Memoization | [View Solution](../70-climbing-stairs/climbing-stairs.java) | [LeetCode Problem](https://leetcode.com/problems/climbing-stairs/) |
 | [152. Maximum Product Subarray](../152-maximum-product-subarray/) | ![Medium](https://img.shields.io/badge/-Medium-orange) | Array, Dynamic Programming | [View Solution](../152-maximum-product-subarray/maximum-product-subarray.java) | [LeetCode Problem](https://leetcode.com/problems/maximum-product-subarray/) |
 | [918. Maximum Sum Circular Subarray](../954-maximum-sum-circular-subarray/) | ![Medium](https://img.shields.io/badge/-Medium-orange) | Array, Divide and Conquer, Dynamic Programming | [View Solution](../954-maximum-sum-circular-subarray/maximum-sum-circular-subarray.java) | [LeetCode Problem](https://leetcode.com/problems/maximum-sum-circular-subarray/) |
 | [1186. Maximum Subarray Sum with One Deletion](../1288-maximum-subarray-sum-with-one-deletion/) | ![Medium](https://img.shields.io/badge/-Medium-orange) | Array, Dynamic Programming | [View Solution](../1288-maximum-subarray-sum-with-one-deletion/maximum-subarray-sum-with-one-deletion.java) | [LeetCode Problem](https://leetcode.com/problems/maximum-subarray-sum-with-one-deletion/) |

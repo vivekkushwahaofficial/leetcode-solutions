@@ -6,9 +6,9 @@
 
 ## 🏆 Overall Solved Summary
 
-- **Total Solved:** `93`
-- 🟢 **Easy:** `52` (55.9%)
-- 🟠 **Medium:** `40` (43.0%)
+- **Total Solved:** `94`
+- 🟢 **Easy:** `53` (56.4%)
+- 🟠 **Medium:** `40` (42.6%)
 - 🔴 **Hard:** `1` (1.1%)
 
 ---
@@ -17,7 +17,7 @@
 
 ```mermaid
 pie title Problem Difficulty Breakdown
-    "Easy" : 52
+    "Easy" : 53
     "Medium" : 40
     "Hard" : 1
 ```
@@ -32,7 +32,7 @@ pie title Problem Difficulty Breakdown
 | 2026-03 | 30 | 53 |
 | 2026-04 | 3 | 56 |
 | 2026-06 | 8 | 64 |
-| 2026-07 | 29 | 93 |
+| 2026-07 | 30 | 94 |
 
 ---
 
@@ -49,7 +49,7 @@ pie title Problem Difficulty Breakdown
 | 2026-W27 | 6 |
 | 2026-W28 | 9 |
 | 2026-W29 | 6 |
-| 2026-W30 | 4 |
+| 2026-W30 | 5 |
 
 ---
 
@@ -58,6 +58,7 @@ pie title Problem Difficulty Breakdown
 | # | Problem Title | Difficulty | Primary Tags | Solution Link | Date Added |
 | :---: | :--- | :---: | :--- | :---: | :---: |
 | 1047 | [1047. Remove All Adjacent Duplicates In String](../1128-remove-all-adjacent-duplicates-in-string/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | String, Stack | [View Solution](../1128-remove-all-adjacent-duplicates-in-string/remove-all-adjacent-duplicates-in-string.java) | 2026-07-31 |
+| 70 | [70. Climbing Stairs](../70-climbing-stairs/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Math, Dynamic Programming, Memoization | [View Solution](../70-climbing-stairs/climbing-stairs.java) | 2026-07-31 |
 | 771 | [771. Jewels and Stones](../782-jewels-and-stones/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Hash Table, String | [View Solution](../782-jewels-and-stones/jewels-and-stones.java) | 2026-07-29 |
 | 205 | [205. Isomorphic Strings](../205-isomorphic-strings/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Hash Table, String | [View Solution](../205-isomorphic-strings/isomorphic-strings.java) | 2026-07-29 |
 | 387 | [387. First Unique Character in a String](../387-first-unique-character-in-a-string/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Hash Table, String, Queue | [View Solution](../387-first-unique-character-in-a-string/first-unique-character-in-a-string.java) | 2026-07-26 |
@@ -76,7 +77,6 @@ pie title Problem Difficulty Breakdown
 | 152 | [152. Maximum Product Subarray](../152-maximum-product-subarray/) | ![Medium](https://img.shields.io/badge/-Medium-orange) | Array, Dynamic Programming | [View Solution](../152-maximum-product-subarray/maximum-product-subarray.java) | 2026-07-13 |
 | 326 | [326. Power of Three](../326-power-of-three/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Math, Recursion | [View Solution](../326-power-of-three/power-of-three.java) | 2026-07-12 |
 | 53 | [53. Maximum Subarray](../53-maximum-subarray/) | ![Medium](https://img.shields.io/badge/-Medium-orange) | Array, Divide and Conquer, Dynamic Programming | [View Solution](../53-maximum-subarray/maximum-subarray.java) | 2026-07-12 |
-| 263 | [263. Ugly Number](../263-ugly-number/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Math | [View Solution](../263-ugly-number/ugly-number.java) | 2026-07-10 |
 
 ---
 

@@ -1,6 +1,6 @@
 # 🏷️ Easy Problems
 
-**Total Problems Solved in this Category:** `52`
+**Total Problems Solved in this Category:** `53`
 
 [⬅️ Back to Portfolio README](../README.md) | [📚 All Problems (Sorted by ID)](AllProblems.md) | [📊 View Statistics](../stats/progress.md)
 
@@ -16,6 +16,7 @@
 | [27. Remove Element](../27-remove-element/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Array, Two Pointers | [View Solution](../27-remove-element/remove-element.java) | [LeetCode Problem](https://leetcode.com/problems/remove-element/) |
 | [58. Length of Last Word](../58-length-of-last-word/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | String | [View Solution](../58-length-of-last-word/length-of-last-word.java) | [LeetCode Problem](https://leetcode.com/problems/length-of-last-word/) |
 | [69. Sqrt(x)](../69-sqrtx/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Math, Binary Search | [View Solution](../69-sqrtx/sqrtx.java) | [LeetCode Problem](https://leetcode.com/problems/sqrtx/) |
+| [70. Climbing Stairs](../70-climbing-stairs/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Math, Dynamic Programming, Memoization | [View Solution](../70-climbing-stairs/climbing-stairs.java) | [LeetCode Problem](https://leetcode.com/problems/climbing-stairs/) |
 | [83. Remove Duplicates from Sorted List](../83-remove-duplicates-from-sorted-list/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Linked List | [View Solution](../83-remove-duplicates-from-sorted-list/remove-duplicates-from-sorted-list.java) | [LeetCode Problem](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) |
 | [88. Merge Sorted Array](../88-merge-sorted-array/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Array, Two Pointers, Sorting | [View Solution](../88-merge-sorted-array/merge-sorted-array.java) | [LeetCode Problem](https://leetcode.com/problems/merge-sorted-array/) |
 | [101. Symmetric Tree](../101-symmetric-tree/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Tree, Depth-First Search, Breadth-First Search | [View Solution](../101-symmetric-tree/symmetric-tree.java) | [LeetCode Problem](https://leetcode.com/problems/symmetric-tree/) |

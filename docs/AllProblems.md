@@ -1,6 +1,6 @@
 # 📚 All Problems (Sorted Numerically by Problem ID)
 
-**Total Problems Solved:** `93`
+**Total Problems Solved:** `94`
 
 [⬅️ Back to Portfolio README](../README.md) | [🟢 Easy](Easy.md) | [🟠 Medium](Medium.md) | [🔴 Hard](Hard.md) | [📊 View Statistics](../stats/progress.md)
 
@@ -22,6 +22,7 @@
 | 58 | [58. Length of Last Word](../58-length-of-last-word/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | String | [View Solution](../58-length-of-last-word/length-of-last-word.java) | [LeetCode Problem](https://leetcode.com/problems/length-of-last-word/) |
 | 59 | [59. Spiral Matrix II](../59-spiral-matrix-ii/) | ![Medium](https://img.shields.io/badge/-Medium-orange) | Array, Matrix, Simulation | [View Solution](../59-spiral-matrix-ii/spiral-matrix-ii.java) | [LeetCode Problem](https://leetcode.com/problems/spiral-matrix-ii/) |
 | 69 | [69. Sqrt(x)](../69-sqrtx/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Math, Binary Search | [View Solution](../69-sqrtx/sqrtx.java) | [LeetCode Problem](https://leetcode.com/problems/sqrtx/) |
+| 70 | [70. Climbing Stairs](../70-climbing-stairs/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Math, Dynamic Programming, Memoization | [View Solution](../70-climbing-stairs/climbing-stairs.java) | [LeetCode Problem](https://leetcode.com/problems/climbing-stairs/) |
 | 74 | [74. Search a 2D Matrix](../74-search-a-2d-matrix/) | ![Medium](https://img.shields.io/badge/-Medium-orange) | Array, Binary Search, Matrix | [View Solution](../74-search-a-2d-matrix/search-a-2d-matrix.java) | [LeetCode Problem](https://leetcode.com/problems/search-a-2d-matrix/) |
 | 83 | [83. Remove Duplicates from Sorted List](../83-remove-duplicates-from-sorted-list/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Linked List | [View Solution](../83-remove-duplicates-from-sorted-list/remove-duplicates-from-sorted-list.java) | [LeetCode Problem](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) |
 | 88 | [88. Merge Sorted Array](../88-merge-sorted-array/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Array, Two Pointers, Sorting | [View Solution](../88-merge-sorted-array/merge-sorted-array.java) | [LeetCode Problem](https://leetcode.com/problems/merge-sorted-array/) |

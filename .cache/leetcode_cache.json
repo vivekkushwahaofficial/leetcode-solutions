@@ -84,6 +84,16 @@
     ],
     "title": "Boats to Save People"
   },
+  "climbing-stairs": {
+    "difficulty": "Easy",
+    "id": 70,
+    "tags": [
+      "Math",
+      "Dynamic Programming",
+      "Memoization"
+    ],
+    "title": "Climbing Stairs"
+  },
   "consecutive-characters": {
     "difficulty": "Easy",
     "id": 1446,
