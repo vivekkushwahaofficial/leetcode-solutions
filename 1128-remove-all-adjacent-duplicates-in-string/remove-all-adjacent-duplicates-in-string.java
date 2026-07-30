@@ -17,6 +17,5 @@ class Solution {
             res.append(st.pop());
         }
 
-        return res.reverse().toString();
-    }
+return res.reverse().toString();    }
 }
