@@ -9,11 +9,7 @@ on:
       - '[0-9]*-*/**'
       - 'scripts/**'
       - '.github/workflows/**'
-    paths-ignore:
-      - 'README.md'
-      - 'docs/**'
-      - 'stats/**'
-      - '.cache/**'
+      - 'config.yml'
 
   workflow_dispatch:
 
@@ -34,14 +30,14 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-          cache: 'pip'
-          cache-dependency-path: 'scripts/requirements.txt'
+          cache: pip
+          cache-dependency-path: scripts/requirements.txt
 
       - name: Cache LeetCode API Metadata
         uses: actions/cache@v4
         with:
           path: .cache
-          key: leetcode-cache-${{ runner.os }}-${{ hashFiles('.cache/leetcode_cache.json') }}
+          key: leetcode-cache-${{ runner.os }}-${{ hashFiles('scripts/requirements.txt') }}
           restore-keys: |
             leetcode-cache-${{ runner.os }}-
 
@@ -51,16 +47,14 @@ jobs:
           pip install -r scripts/requirements.txt
 
       - name: Run Documentation & Statistics Generator
-        run: |
-          python scripts/run_all.py
+        run: python scripts/run_all.py
 
       - name: Commit and Push Changes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "docs(auto): regenerate portfolio README, pattern docs, and progress stats [skip ci]"
-          file_pattern: "README.md docs/*.md stats/*.md .cache/leetcode_cache.json"
+          file_pattern: "README.md docs/** stats/** data/** .cache/leetcode_cache.json"
           skip_dirty_check: false
           commit_user_name: "github-actions[bot]"
           commit_user_email: "github-actions[bot]@users.noreply.github.com"
           commit_author: "github-actions[bot] <github-actions[bot]@users.noreply.github.com>"
-
