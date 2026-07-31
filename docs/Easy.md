@@ -1,6 +1,6 @@
 # 🏷️ Easy Problems
 
-**Total Problems Solved in this Category:** `53`
+**Total Problems Solved in this Category:** `54`
 
 [⬅️ Back to Portfolio README](../README.md) | [📚 All Problems (Sorted by ID)](AllProblems.md) | [📊 View Statistics](../stats/progress.md)
 
@@ -34,6 +34,7 @@
 | [206. Reverse Linked List](../206-reverse-linked-list/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Linked List, Recursion | [View Solution](../206-reverse-linked-list/reverse-linked-list.java) | [LeetCode Problem](https://leetcode.com/problems/reverse-linked-list/) |
 | [217. Contains Duplicate](../217-contains-duplicate/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Array, Hash Table, Sorting | [View Solution](../217-contains-duplicate/contains-duplicate.java) | [LeetCode Problem](https://leetcode.com/problems/contains-duplicate/) |
 | [226. Invert Binary Tree](../226-invert-binary-tree/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Tree, Depth-First Search, Breadth-First Search | [View Solution](../226-invert-binary-tree/invert-binary-tree.java) | [LeetCode Problem](https://leetcode.com/problems/invert-binary-tree/) |
+| [232. Implement Queue using Stacks](../232-implement-queue-using-stacks/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Stack, Design, Queue | [View Solution](../232-implement-queue-using-stacks/implement-queue-using-stacks.java) | [LeetCode Problem](https://leetcode.com/problems/implement-queue-using-stacks/) |
 | [242. Valid Anagram](../242-valid-anagram/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Hash Table, String, Sorting | [View Solution](../242-valid-anagram/valid-anagram.java) | [LeetCode Problem](https://leetcode.com/problems/valid-anagram/) |
 | [257. Binary Tree Paths](../257-binary-tree-paths/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | String, Backtracking, Tree | [View Solution](../257-binary-tree-paths/binary-tree-paths.java) | [LeetCode Problem](https://leetcode.com/problems/binary-tree-paths/) |
 | [263. Ugly Number](../263-ugly-number/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Math | [View Solution](../263-ugly-number/ugly-number.java) | [LeetCode Problem](https://leetcode.com/problems/ugly-number/) |

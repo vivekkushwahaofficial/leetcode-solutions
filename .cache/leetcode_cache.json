@@ -261,6 +261,16 @@
     ],
     "title": "Happy Number"
   },
+  "implement-queue-using-stacks": {
+    "difficulty": "Easy",
+    "id": 232,
+    "tags": [
+      "Stack",
+      "Design",
+      "Queue"
+    ],
+    "title": "Implement Queue using Stacks"
+  },
   "insert-into-a-binary-search-tree": {
     "difficulty": "Medium",
     "id": 701,

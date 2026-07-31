@@ -4,8 +4,8 @@
 
 ### Automated, Structured & Pattern-Categorized Algorithm Solutions
 
-![Total Solved](https://img.shields.io/badge/Total%20Solved-94-blue?style=for-the-badge&logo=leetcode)
-![Easy](https://img.shields.io/badge/Easy-53-brightgreen?style=for-the-badge)
+![Total Solved](https://img.shields.io/badge/Total%20Solved-95-blue?style=for-the-badge&logo=leetcode)
+![Easy](https://img.shields.io/badge/Easy-54-brightgreen?style=for-the-badge)
 ![Medium](https://img.shields.io/badge/Medium-40-orange?style=for-the-badge)
 ![Hard](https://img.shields.io/badge/Hard-1-red?style=for-the-badge)
 ![Auto Updated](https://img.shields.io/badge/Status-Auto%20Updated-success?style=for-the-badge&logo=githubactions)
@@ -27,14 +27,14 @@
 
 ## 📊 Progress Overview
 
-**LeetCode Journey Target Progress:** `[█░░░░░░░░░░░░░░░░░░░░░░░░] 94/3500 (2.7%)`
+**LeetCode Journey Target Progress:** `[█░░░░░░░░░░░░░░░░░░░░░░░░] 95/3500 (2.7%)`
 
 | Metric | Count | Percentage | Documentation |
 | :--- | :---: | :---: | :---: |
-| 🟢 **Easy** | 53 | 56.4% | [View Easy Solutions](docs/Easy.md) |
-| 🟠 **Medium** | 40 | 42.6% | [View Medium Solutions](docs/Medium.md) |
+| 🟢 **Easy** | 54 | 56.8% | [View Easy Solutions](docs/Easy.md) |
+| 🟠 **Medium** | 40 | 42.1% | [View Medium Solutions](docs/Medium.md) |
 | 🔴 **Hard** | 1 | 1.1% | [View Hard Solutions](docs/Hard.md) |
-| 🏆 **Total** | **94** | **100.0%** | [All Problems Index](docs/AllProblems.md) | [Full Stats](stats/progress.md) |
+| 🏆 **Total** | **95** | **100.0%** | [All Problems Index](docs/AllProblems.md) | [Full Stats](stats/progress.md) |
 
 ---
 
@@ -61,8 +61,8 @@ Explore problems grouped by algorithmic pattern and data structure:
 | 🏷️ **SlidingWindow** | 3 | [View SlidingWindow Solutions](docs/SlidingWindow.md) |
 | 🏷️ **TwoPointers** | 19 | [View TwoPointers Solutions](docs/TwoPointers.md) |
 | 🏷️ **BinarySearch** | 6 | [View BinarySearch Solutions](docs/BinarySearch.md) |
-| 🏷️ **Stack** | 8 | [View Stack Solutions](docs/Stack.md) |
-| 🏷️ **Queue** | 2 | [View Queue Solutions](docs/Queue.md) |
+| 🏷️ **Stack** | 9 | [View Stack Solutions](docs/Stack.md) |
+| 🏷️ **Queue** | 3 | [View Queue Solutions](docs/Queue.md) |
 | 🏷️ **LinkedList** | 18 | [View LinkedList Solutions](docs/LinkedList.md) |
 | 🏷️ **Tree** | 39 | [View Tree Solutions](docs/Tree.md) |
 | 🏷️ **BST** | 7 | [View BST Solutions](docs/BST.md) |
@@ -89,6 +89,7 @@ Explore problems grouped by algorithmic pattern and data structure:
 
 | # | Problem Title | Difficulty | Solution | Date Added |
 | :---: | :--- | :---: | :---: | :---: |
+| 232 | [232. Implement Queue using Stacks](232-implement-queue-using-stacks/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | [Solution](232-implement-queue-using-stacks/implement-queue-using-stacks.java) | 2026-08-01 |
 | 1047 | [1047. Remove All Adjacent Duplicates In String](1128-remove-all-adjacent-duplicates-in-string/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | [Solution](1128-remove-all-adjacent-duplicates-in-string/remove-all-adjacent-duplicates-in-string.java) | 2026-07-31 |
 | 70 | [70. Climbing Stairs](70-climbing-stairs/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | [Solution](70-climbing-stairs/climbing-stairs.java) | 2026-07-31 |
 | 771 | [771. Jewels and Stones](782-jewels-and-stones/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | [Solution](782-jewels-and-stones/jewels-and-stones.java) | 2026-07-29 |
@@ -98,7 +99,6 @@ Explore problems grouped by algorithmic pattern and data structure:
 | 974 | [974. Subarray Sums Divisible by K](1016-subarray-sums-divisible-by-k/) | ![Medium](https://img.shields.io/badge/-Medium-orange) | [Solution](1016-subarray-sums-divisible-by-k/subarray-sums-divisible-by-k.java) | 2026-07-24 |
 | 1678 | [1678. Goal Parser Interpretation](1797-goal-parser-interpretation/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | [Solution](1797-goal-parser-interpretation/goal-parser-interpretation.java) | 2026-07-23 |
 | 1528 | [1528. Shuffle String](1651-shuffle-string/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | [Solution](1651-shuffle-string/shuffle-string.java) | 2026-07-22 |
-| 1108 | [1108. Defanging an IP Address](1205-defanging-an-ip-address/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | [Solution](1205-defanging-an-ip-address/defanging-an-ip-address.java) | 2026-07-21 |
 
 ---
 

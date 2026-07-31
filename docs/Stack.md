@@ -1,6 +1,6 @@
 # 🏷️ Stack Pattern
 
-**Total Problems Solved in this Category:** `8`
+**Total Problems Solved in this Category:** `9`
 
 [⬅️ Back to Portfolio README](../README.md) | [📚 All Problems (Sorted by ID)](AllProblems.md) | [📊 View Statistics](../stats/progress.md)
 
@@ -10,6 +10,7 @@
 | :--- | :---: | :--- | :---: | :---: |
 | [20. Valid Parentheses](../20-valid-parentheses/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | String, Stack | [View Solution](../20-valid-parentheses/valid-parentheses.java) | [LeetCode Problem](https://leetcode.com/problems/valid-parentheses/) |
 | [145. Binary Tree Postorder Traversal](../145-binary-tree-postorder-traversal/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Stack, Tree, Depth-First Search | [View Solution](../145-binary-tree-postorder-traversal/binary-tree-postorder-traversal.java) | [LeetCode Problem](https://leetcode.com/problems/binary-tree-postorder-traversal/) |
+| [232. Implement Queue using Stacks](../232-implement-queue-using-stacks/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Stack, Design, Queue | [View Solution](../232-implement-queue-using-stacks/implement-queue-using-stacks.java) | [LeetCode Problem](https://leetcode.com/problems/implement-queue-using-stacks/) |
 | [316. Remove Duplicate Letters](../316-remove-duplicate-letters/) | ![Medium](https://img.shields.io/badge/-Medium-orange) | String, Stack, Greedy | [View Solution](../316-remove-duplicate-letters/remove-duplicate-letters.java) | [LeetCode Problem](https://leetcode.com/problems/remove-duplicate-letters/) |
 | [394. Decode String](../394-decode-string/) | ![Medium](https://img.shields.io/badge/-Medium-orange) | String, Stack, Recursion | [View Solution](../394-decode-string/decode-string.java) | [LeetCode Problem](https://leetcode.com/problems/decode-string/) |
 | [921. Minimum Add to Make Parentheses Valid](../957-minimum-add-to-make-parentheses-valid/) | ![Medium](https://img.shields.io/badge/-Medium-orange) | String, Stack, Greedy | [View Solution](../957-minimum-add-to-make-parentheses-valid/minimum-add-to-make-parentheses-valid.java) | [LeetCode Problem](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/) |

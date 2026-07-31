@@ -1,6 +1,6 @@
 # 📚 All Problems (Sorted Numerically by Problem ID)
 
-**Total Problems Solved:** `94`
+**Total Problems Solved:** `95`
 
 [⬅️ Back to Portfolio README](../README.md) | [🟢 Easy](Easy.md) | [🟠 Medium](Medium.md) | [🔴 Hard](Hard.md) | [📊 View Statistics](../stats/progress.md)
 
@@ -54,6 +54,7 @@
 | 222 | [222. Count Complete Tree Nodes](../222-count-complete-tree-nodes/) | ![Medium](https://img.shields.io/badge/-Medium-orange) | Binary Search, Bit Manipulation, Tree, Binary Tree | [View Solution](../222-count-complete-tree-nodes/count-complete-tree-nodes.java) | [LeetCode Problem](https://leetcode.com/problems/count-complete-tree-nodes/) |
 | 226 | [226. Invert Binary Tree](../226-invert-binary-tree/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Tree, Depth-First Search, Breadth-First Search, Binary Tree | [View Solution](../226-invert-binary-tree/invert-binary-tree.java) | [LeetCode Problem](https://leetcode.com/problems/invert-binary-tree/) |
 | 230 | [230. Kth Smallest Element in a BST](../230-kth-smallest-element-in-a-bst/) | ![Medium](https://img.shields.io/badge/-Medium-orange) | Tree, Depth-First Search, Binary Search Tree, Binary Tree | [View Solution](../230-kth-smallest-element-in-a-bst/kth-smallest-element-in-a-bst.java) | [LeetCode Problem](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) |
+| 232 | [232. Implement Queue using Stacks](../232-implement-queue-using-stacks/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Stack, Design, Queue | [View Solution](../232-implement-queue-using-stacks/implement-queue-using-stacks.java) | [LeetCode Problem](https://leetcode.com/problems/implement-queue-using-stacks/) |
 | 235 | [235. Lowest Common Ancestor of a Binary Search Tree](../235-lowest-common-ancestor-of-a-binary-search-tree/) | ![Medium](https://img.shields.io/badge/-Medium-orange) | Tree, Depth-First Search, Binary Search Tree, Binary Tree | [View Solution](../235-lowest-common-ancestor-of-a-binary-search-tree/lowest-common-ancestor-of-a-binary-search-tree.java) | [LeetCode Problem](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) |
 | 237 | [237. Delete Node in a Linked List](../237-delete-node-in-a-linked-list/) | ![Medium](https://img.shields.io/badge/-Medium-orange) | Linked List | [View Solution](../237-delete-node-in-a-linked-list/delete-node-in-a-linked-list.java) | [LeetCode Problem](https://leetcode.com/problems/delete-node-in-a-linked-list/) |
 | 242 | [242. Valid Anagram](../242-valid-anagram/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Hash Table, String, Sorting | [View Solution](../242-valid-anagram/valid-anagram.java) | [LeetCode Problem](https://leetcode.com/problems/valid-anagram/) |
