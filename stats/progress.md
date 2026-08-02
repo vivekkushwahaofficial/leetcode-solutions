@@ -6,10 +6,10 @@
 
 ## 🏆 Overall Solved Summary
 
-- **Total Solved:** `95`
-- 🟢 **Easy:** `54` (56.8%)
-- 🟠 **Medium:** `40` (42.1%)
-- 🔴 **Hard:** `1` (1.1%)
+- **Total Solved:** `96`
+- 🟢 **Easy:** `55` (57.3%)
+- 🟠 **Medium:** `40` (41.7%)
+- 🔴 **Hard:** `1` (1.0%)
 
 ---
 
@@ -17,7 +17,7 @@
 
 ```mermaid
 pie title Problem Difficulty Breakdown
-    "Easy" : 54
+    "Easy" : 55
     "Medium" : 40
     "Hard" : 1
 ```
@@ -33,7 +33,7 @@ pie title Problem Difficulty Breakdown
 | 2026-04 | 3 | 56 |
 | 2026-06 | 8 | 64 |
 | 2026-07 | 30 | 94 |
-| 2026-08 | 1 | 95 |
+| 2026-08 | 2 | 96 |
 
 ---
 
@@ -41,7 +41,6 @@ pie title Problem Difficulty Breakdown
 
 | Week | Problems Solved |
 | :---: | :---: |
-| 2026-W10 | 7 |
 | 2026-W11 | 7 |
 | 2026-W12 | 6 |
 | 2026-W13 | 6 |
@@ -51,6 +50,7 @@ pie title Problem Difficulty Breakdown
 | 2026-W28 | 9 |
 | 2026-W29 | 6 |
 | 2026-W30 | 6 |
+| 2026-W31 | 1 |
 
 ---
 
@@ -58,6 +58,7 @@ pie title Problem Difficulty Breakdown
 
 | # | Problem Title | Difficulty | Primary Tags | Solution Link | Date Added |
 | :---: | :--- | :---: | :--- | :---: | :---: |
+| 1630 | [1630. Count Odd Numbers in an Interval Range](../1630-count-odd-numbers-in-an-interval-range/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Math | [View Solution](../1630-count-odd-numbers-in-an-interval-range/count-odd-numbers-in-an-interval-range.java) | 2026-08-02 |
 | 232 | [232. Implement Queue using Stacks](../232-implement-queue-using-stacks/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Stack, Design, Queue | [View Solution](../232-implement-queue-using-stacks/implement-queue-using-stacks.java) | 2026-08-01 |
 | 1047 | [1047. Remove All Adjacent Duplicates In String](../1128-remove-all-adjacent-duplicates-in-string/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | String, Stack | [View Solution](../1128-remove-all-adjacent-duplicates-in-string/remove-all-adjacent-duplicates-in-string.java) | 2026-07-31 |
 | 70 | [70. Climbing Stairs](../70-climbing-stairs/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Math, Dynamic Programming, Memoization | [View Solution](../70-climbing-stairs/climbing-stairs.java) | 2026-07-31 |
@@ -77,7 +78,6 @@ pie title Problem Difficulty Breakdown
 | 1749 | [1749. Maximum Absolute Sum of Any Subarray](../1849-maximum-absolute-sum-of-any-subarray/) | ![Medium](https://img.shields.io/badge/-Medium-orange) | Array, Dynamic Programming | [View Solution](../1849-maximum-absolute-sum-of-any-subarray/maximum-absolute-sum-of-any-subarray.java) | 2026-07-14 |
 | 1186 | [1186. Maximum Subarray Sum with One Deletion](../1288-maximum-subarray-sum-with-one-deletion/) | ![Medium](https://img.shields.io/badge/-Medium-orange) | Array, Dynamic Programming | [View Solution](../1288-maximum-subarray-sum-with-one-deletion/maximum-subarray-sum-with-one-deletion.java) | 2026-07-14 |
 | 152 | [152. Maximum Product Subarray](../152-maximum-product-subarray/) | ![Medium](https://img.shields.io/badge/-Medium-orange) | Array, Dynamic Programming | [View Solution](../152-maximum-product-subarray/maximum-product-subarray.java) | 2026-07-13 |
-| 326 | [326. Power of Three](../326-power-of-three/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Math, Recursion | [View Solution](../326-power-of-three/power-of-three.java) | 2026-07-12 |
 
 ---
 

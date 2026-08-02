@@ -157,6 +157,14 @@
     ],
     "title": "Count Complete Tree Nodes"
   },
+  "count-odd-numbers-in-an-interval-range": {
+    "difficulty": "Easy",
+    "id": 1523,
+    "tags": [
+      "Math"
+    ],
+    "title": "Count Odd Numbers in an Interval Range"
+  },
   "decode-string": {
     "difficulty": "Medium",
     "id": 394,

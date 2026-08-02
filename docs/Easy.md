@@ -1,6 +1,6 @@
 # 🏷️ Easy Problems
 
-**Total Problems Solved in this Category:** `54`
+**Total Problems Solved in this Category:** `55`
 
 [⬅️ Back to Portfolio README](../README.md) | [📚 All Problems (Sorted by ID)](AllProblems.md) | [📊 View Statistics](../stats/progress.md)
 
@@ -60,6 +60,7 @@
 | [1480. Running Sum of 1d Array](../1603-running-sum-of-1d-array/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Array, Prefix Sum | [View Solution](../1603-running-sum-of-1d-array/running-sum-of-1d-array.java) | [LeetCode Problem](https://leetcode.com/problems/running-sum-of-1d-array/) |
 | [1528. Shuffle String](../1651-shuffle-string/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Array, String | [View Solution](../1651-shuffle-string/shuffle-string.java) | [LeetCode Problem](https://leetcode.com/problems/shuffle-string/) |
 | [1572. Matrix Diagonal Sum](../1677-matrix-diagonal-sum/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Array, Matrix | [View Solution](../1677-matrix-diagonal-sum/matrix-diagonal-sum.java) | [LeetCode Problem](https://leetcode.com/problems/matrix-diagonal-sum/) |
+| [1630. Count Odd Numbers in an Interval Range](../1630-count-odd-numbers-in-an-interval-range/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Math | [View Solution](../1630-count-odd-numbers-in-an-interval-range/count-odd-numbers-in-an-interval-range.java) | [LeetCode Problem](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/) |
 | [1678. Goal Parser Interpretation](../1797-goal-parser-interpretation/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | String | [View Solution](../1797-goal-parser-interpretation/goal-parser-interpretation.java) | [LeetCode Problem](https://leetcode.com/problems/goal-parser-interpretation/) |
 | [1897. Redistribute Characters to Make All Strings Equal](../2025-redistribute-characters-to-make-all-strings-equal/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Hash Table, String, Counting | [View Solution](../2025-redistribute-characters-to-make-all-strings-equal/redistribute-characters-to-make-all-strings-equal.java) | [LeetCode Problem](https://leetcode.com/problems/redistribute-characters-to-make-all-strings-equal/) |
 

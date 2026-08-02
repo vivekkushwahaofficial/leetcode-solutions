@@ -4,8 +4,8 @@
 
 ### Automated, Structured & Pattern-Categorized Algorithm Solutions
 
-![Total Solved](https://img.shields.io/badge/Total%20Solved-95-blue?style=for-the-badge&logo=leetcode)
-![Easy](https://img.shields.io/badge/Easy-54-brightgreen?style=for-the-badge)
+![Total Solved](https://img.shields.io/badge/Total%20Solved-96-blue?style=for-the-badge&logo=leetcode)
+![Easy](https://img.shields.io/badge/Easy-55-brightgreen?style=for-the-badge)
 ![Medium](https://img.shields.io/badge/Medium-40-orange?style=for-the-badge)
 ![Hard](https://img.shields.io/badge/Hard-1-red?style=for-the-badge)
 ![Auto Updated](https://img.shields.io/badge/Status-Auto%20Updated-success?style=for-the-badge&logo=githubactions)
@@ -27,14 +27,14 @@
 
 ## 📊 Progress Overview
 
-**LeetCode Journey Target Progress:** `[█░░░░░░░░░░░░░░░░░░░░░░░░] 95/3500 (2.7%)`
+**LeetCode Journey Target Progress:** `[█░░░░░░░░░░░░░░░░░░░░░░░░] 96/3500 (2.7%)`
 
 | Metric | Count | Percentage | Documentation |
 | :--- | :---: | :---: | :---: |
-| 🟢 **Easy** | 54 | 56.8% | [View Easy Solutions](docs/Easy.md) |
-| 🟠 **Medium** | 40 | 42.1% | [View Medium Solutions](docs/Medium.md) |
-| 🔴 **Hard** | 1 | 1.1% | [View Hard Solutions](docs/Hard.md) |
-| 🏆 **Total** | **95** | **100.0%** | [All Problems Index](docs/AllProblems.md) | [Full Stats](stats/progress.md) |
+| 🟢 **Easy** | 55 | 57.3% | [View Easy Solutions](docs/Easy.md) |
+| 🟠 **Medium** | 40 | 41.7% | [View Medium Solutions](docs/Medium.md) |
+| 🔴 **Hard** | 1 | 1.0% | [View Hard Solutions](docs/Hard.md) |
+| 🏆 **Total** | **96** | **100.0%** | [All Problems Index](docs/AllProblems.md) | [Full Stats](stats/progress.md) |
 
 ---
 
@@ -73,7 +73,7 @@ Explore problems grouped by algorithmic pattern and data structure:
 | 🏷️ **Backtracking** | 1 | [View Backtracking Solutions](docs/Backtracking.md) |
 | 🏷️ **DynamicProgramming** | 6 | [View DynamicProgramming Solutions](docs/DynamicProgramming.md) |
 | 🏷️ **BitManipulation** | 2 | [View BitManipulation Solutions](docs/BitManipulation.md) |
-| 🏷️ **Math** | 9 | [View Math Solutions](docs/Math.md) |
+| 🏷️ **Math** | 10 | [View Math Solutions](docs/Math.md) |
 | 🏷️ **PrefixSum** | 7 | [View PrefixSum Solutions](docs/PrefixSum.md) |
 | 🏷️ **Intervals** | 0 | [View Intervals Solutions](docs/Intervals.md) |
 | 🏷️ **Matrix** | 5 | [View Matrix Solutions](docs/Matrix.md) |
@@ -89,6 +89,7 @@ Explore problems grouped by algorithmic pattern and data structure:
 
 | # | Problem Title | Difficulty | Solution | Date Added |
 | :---: | :--- | :---: | :---: | :---: |
+| 1630 | [1630. Count Odd Numbers in an Interval Range](1630-count-odd-numbers-in-an-interval-range/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | [Solution](1630-count-odd-numbers-in-an-interval-range/count-odd-numbers-in-an-interval-range.java) | 2026-08-02 |
 | 232 | [232. Implement Queue using Stacks](232-implement-queue-using-stacks/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | [Solution](232-implement-queue-using-stacks/implement-queue-using-stacks.java) | 2026-08-01 |
 | 1047 | [1047. Remove All Adjacent Duplicates In String](1128-remove-all-adjacent-duplicates-in-string/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | [Solution](1128-remove-all-adjacent-duplicates-in-string/remove-all-adjacent-duplicates-in-string.java) | 2026-07-31 |
 | 70 | [70. Climbing Stairs](70-climbing-stairs/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | [Solution](70-climbing-stairs/climbing-stairs.java) | 2026-07-31 |
@@ -98,7 +99,6 @@ Explore problems grouped by algorithmic pattern and data structure:
 | 344 | [344. Reverse String](344-reverse-string/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | [Solution](344-reverse-string/reverse-string.java) | 2026-07-25 |
 | 974 | [974. Subarray Sums Divisible by K](1016-subarray-sums-divisible-by-k/) | ![Medium](https://img.shields.io/badge/-Medium-orange) | [Solution](1016-subarray-sums-divisible-by-k/subarray-sums-divisible-by-k.java) | 2026-07-24 |
 | 1678 | [1678. Goal Parser Interpretation](1797-goal-parser-interpretation/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | [Solution](1797-goal-parser-interpretation/goal-parser-interpretation.java) | 2026-07-23 |
-| 1528 | [1528. Shuffle String](1651-shuffle-string/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | [Solution](1651-shuffle-string/shuffle-string.java) | 2026-07-22 |
 
 ---
 
