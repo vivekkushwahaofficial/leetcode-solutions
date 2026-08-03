@@ -1,6 +1,6 @@
 # 📚 All Problems (Sorted Numerically by Problem ID)
 
-**Total Problems Solved:** `96`
+**Total Problems Solved:** `97`
 
 [⬅️ Back to Portfolio README](../README.md) | [🟢 Easy](Easy.md) | [🟠 Medium](Medium.md) | [🔴 Hard](Hard.md) | [📊 View Statistics](../stats/progress.md)
 
@@ -69,6 +69,7 @@
 | 387 | [387. First Unique Character in a String](../387-first-unique-character-in-a-string/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Hash Table, String, Queue, Counting | [View Solution](../387-first-unique-character-in-a-string/first-unique-character-in-a-string.java) | [LeetCode Problem](https://leetcode.com/problems/first-unique-character-in-a-string/) |
 | 394 | [394. Decode String](../394-decode-string/) | ![Medium](https://img.shields.io/badge/-Medium-orange) | String, Stack, Recursion | [View Solution](../394-decode-string/decode-string.java) | [LeetCode Problem](https://leetcode.com/problems/decode-string/) |
 | 443 | [443. String Compression](../443-string-compression/) | ![Medium](https://img.shields.io/badge/-Medium-orange) | Two Pointers, String | [View Solution](../443-string-compression/string-compression.java) | [LeetCode Problem](https://leetcode.com/problems/string-compression/) |
+| 496 | [496. Next Greater Element I](../496-next-greater-element-i/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Array, Hash Table, Stack, Monotonic Stack | [View Solution](../496-next-greater-element-i/next-greater-element-i.java) | [LeetCode Problem](https://leetcode.com/problems/next-greater-element-i/) |
 | 525 | [525. Contiguous Array](../525-contiguous-array/) | ![Medium](https://img.shields.io/badge/-Medium-orange) | Array, Hash Table, Prefix Sum | [View Solution](../525-contiguous-array/contiguous-array.java) | [LeetCode Problem](https://leetcode.com/problems/contiguous-array/) |
 | 560 | [560. Subarray Sum Equals K](../560-subarray-sum-equals-k/) | ![Medium](https://img.shields.io/badge/-Medium-orange) | Array, Hash Table, Prefix Sum | [View Solution](../560-subarray-sum-equals-k/subarray-sum-equals-k.java) | [LeetCode Problem](https://leetcode.com/problems/subarray-sum-equals-k/) |
 | 617 | [617. Merge Two Binary Trees](../617-merge-two-binary-trees/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Tree, Depth-First Search, Breadth-First Search, Binary Tree | [View Solution](../617-merge-two-binary-trees/merge-two-binary-trees.java) | [LeetCode Problem](https://leetcode.com/problems/merge-two-binary-trees/) |

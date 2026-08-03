@@ -4,8 +4,8 @@
 
 ### Automated, Structured & Pattern-Categorized Algorithm Solutions
 
-![Total Solved](https://img.shields.io/badge/Total%20Solved-96-blue?style=for-the-badge&logo=leetcode)
-![Easy](https://img.shields.io/badge/Easy-55-brightgreen?style=for-the-badge)
+![Total Solved](https://img.shields.io/badge/Total%20Solved-97-blue?style=for-the-badge&logo=leetcode)
+![Easy](https://img.shields.io/badge/Easy-56-brightgreen?style=for-the-badge)
 ![Medium](https://img.shields.io/badge/Medium-40-orange?style=for-the-badge)
 ![Hard](https://img.shields.io/badge/Hard-1-red?style=for-the-badge)
 ![Auto Updated](https://img.shields.io/badge/Status-Auto%20Updated-success?style=for-the-badge&logo=githubactions)
@@ -27,14 +27,14 @@
 
 ## 📊 Progress Overview
 
-**LeetCode Journey Target Progress:** `[█░░░░░░░░░░░░░░░░░░░░░░░░] 96/3500 (2.7%)`
+**LeetCode Journey Target Progress:** `[█░░░░░░░░░░░░░░░░░░░░░░░░] 97/3500 (2.8%)`
 
 | Metric | Count | Percentage | Documentation |
 | :--- | :---: | :---: | :---: |
-| 🟢 **Easy** | 55 | 57.3% | [View Easy Solutions](docs/Easy.md) |
-| 🟠 **Medium** | 40 | 41.7% | [View Medium Solutions](docs/Medium.md) |
+| 🟢 **Easy** | 56 | 57.7% | [View Easy Solutions](docs/Easy.md) |
+| 🟠 **Medium** | 40 | 41.2% | [View Medium Solutions](docs/Medium.md) |
 | 🔴 **Hard** | 1 | 1.0% | [View Hard Solutions](docs/Hard.md) |
-| 🏆 **Total** | **96** | **100.0%** | [All Problems Index](docs/AllProblems.md) | [Full Stats](stats/progress.md) |
+| 🏆 **Total** | **97** | **100.0%** | [All Problems Index](docs/AllProblems.md) | [Full Stats](stats/progress.md) |
 
 ---
 
@@ -55,13 +55,13 @@ Explore problems grouped by algorithmic pattern and data structure:
 
 | Pattern / Topic | Problems Solved | Document Link |
 | :--- | :---: | :---: |
-| 🏷️ **Arrays** | 36 | [View Arrays Solutions](docs/Arrays.md) |
+| 🏷️ **Arrays** | 37 | [View Arrays Solutions](docs/Arrays.md) |
 | 🏷️ **Strings** | 20 | [View Strings Solutions](docs/Strings.md) |
-| 🏷️ **HashMap** | 17 | [View HashMap Solutions](docs/HashMap.md) |
+| 🏷️ **HashMap** | 18 | [View HashMap Solutions](docs/HashMap.md) |
 | 🏷️ **SlidingWindow** | 3 | [View SlidingWindow Solutions](docs/SlidingWindow.md) |
 | 🏷️ **TwoPointers** | 19 | [View TwoPointers Solutions](docs/TwoPointers.md) |
 | 🏷️ **BinarySearch** | 6 | [View BinarySearch Solutions](docs/BinarySearch.md) |
-| 🏷️ **Stack** | 9 | [View Stack Solutions](docs/Stack.md) |
+| 🏷️ **Stack** | 10 | [View Stack Solutions](docs/Stack.md) |
 | 🏷️ **Queue** | 3 | [View Queue Solutions](docs/Queue.md) |
 | 🏷️ **LinkedList** | 18 | [View LinkedList Solutions](docs/LinkedList.md) |
 | 🏷️ **Tree** | 39 | [View Tree Solutions](docs/Tree.md) |
@@ -80,7 +80,7 @@ Explore problems grouped by algorithmic pattern and data structure:
 | 🏷️ **Recursion** | 6 | [View Recursion Solutions](docs/Recursion.md) |
 | 🏷️ **BinaryTree** | 19 | [View BinaryTree Solutions](docs/BinaryTree.md) |
 | 🏷️ **UnionFind** | 0 | [View UnionFind Solutions](docs/UnionFind.md) |
-| 🏷️ **MonotonicStack** | 2 | [View MonotonicStack Solutions](docs/MonotonicStack.md) |
+| 🏷️ **MonotonicStack** | 3 | [View MonotonicStack Solutions](docs/MonotonicStack.md) |
 | 🏷️ **TopologicalSort** | 0 | [View TopologicalSort Solutions](docs/TopologicalSort.md) |
 
 ---
@@ -89,6 +89,7 @@ Explore problems grouped by algorithmic pattern and data structure:
 
 | # | Problem Title | Difficulty | Solution | Date Added |
 | :---: | :--- | :---: | :---: | :---: |
+| 496 | [496. Next Greater Element I](496-next-greater-element-i/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | [Solution](496-next-greater-element-i/next-greater-element-i.java) | 2026-08-03 |
 | 1630 | [1630. Count Odd Numbers in an Interval Range](1630-count-odd-numbers-in-an-interval-range/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | [Solution](1630-count-odd-numbers-in-an-interval-range/count-odd-numbers-in-an-interval-range.java) | 2026-08-02 |
 | 232 | [232. Implement Queue using Stacks](232-implement-queue-using-stacks/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | [Solution](232-implement-queue-using-stacks/implement-queue-using-stacks.java) | 2026-08-01 |
 | 1047 | [1047. Remove All Adjacent Duplicates In String](1128-remove-all-adjacent-duplicates-in-string/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | [Solution](1128-remove-all-adjacent-duplicates-in-string/remove-all-adjacent-duplicates-in-string.java) | 2026-07-31 |
@@ -98,7 +99,6 @@ Explore problems grouped by algorithmic pattern and data structure:
 | 387 | [387. First Unique Character in a String](387-first-unique-character-in-a-string/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | [Solution](387-first-unique-character-in-a-string/first-unique-character-in-a-string.java) | 2026-07-26 |
 | 344 | [344. Reverse String](344-reverse-string/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | [Solution](344-reverse-string/reverse-string.java) | 2026-07-25 |
 | 974 | [974. Subarray Sums Divisible by K](1016-subarray-sums-divisible-by-k/) | ![Medium](https://img.shields.io/badge/-Medium-orange) | [Solution](1016-subarray-sums-divisible-by-k/subarray-sums-divisible-by-k.java) | 2026-07-24 |
-| 1678 | [1678. Goal Parser Interpretation](1797-goal-parser-interpretation/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | [Solution](1797-goal-parser-interpretation/goal-parser-interpretation.java) | 2026-07-23 |
 
 ---
 

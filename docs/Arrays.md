@@ -1,6 +1,6 @@
 # 🏷️ Arrays Pattern
 
-**Total Problems Solved in this Category:** `36`
+**Total Problems Solved in this Category:** `37`
 
 [⬅️ Back to Portfolio README](../README.md) | [📚 All Problems (Sorted by ID)](AllProblems.md) | [📊 View Statistics](../stats/progress.md)
 
@@ -25,6 +25,7 @@
 | [217. Contains Duplicate](../217-contains-duplicate/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Array, Hash Table, Sorting | [View Solution](../217-contains-duplicate/contains-duplicate.java) | [LeetCode Problem](https://leetcode.com/problems/contains-duplicate/) |
 | [283. Move Zeroes](../283-move-zeroes/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Array, Two Pointers | [View Solution](../283-move-zeroes/move-zeroes.java) | [LeetCode Problem](https://leetcode.com/problems/move-zeroes/) |
 | [287. Find the Duplicate Number](../287-find-the-duplicate-number/) | ![Medium](https://img.shields.io/badge/-Medium-orange) | Array, Two Pointers, Binary Search | [View Solution](../287-find-the-duplicate-number/find-the-duplicate-number.java) | [LeetCode Problem](https://leetcode.com/problems/find-the-duplicate-number/) |
+| [496. Next Greater Element I](../496-next-greater-element-i/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Array, Hash Table, Stack | [View Solution](../496-next-greater-element-i/next-greater-element-i.java) | [LeetCode Problem](https://leetcode.com/problems/next-greater-element-i/) |
 | [525. Contiguous Array](../525-contiguous-array/) | ![Medium](https://img.shields.io/badge/-Medium-orange) | Array, Hash Table, Prefix Sum | [View Solution](../525-contiguous-array/contiguous-array.java) | [LeetCode Problem](https://leetcode.com/problems/contiguous-array/) |
 | [560. Subarray Sum Equals K](../560-subarray-sum-equals-k/) | ![Medium](https://img.shields.io/badge/-Medium-orange) | Array, Hash Table, Prefix Sum | [View Solution](../560-subarray-sum-equals-k/subarray-sum-equals-k.java) | [LeetCode Problem](https://leetcode.com/problems/subarray-sum-equals-k/) |
 | [643. Maximum Average Subarray I](../643-maximum-average-subarray-i/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Array, Sliding Window | [View Solution](../643-maximum-average-subarray-i/maximum-average-subarray-i.java) | [LeetCode Problem](https://leetcode.com/problems/maximum-average-subarray-i/) |

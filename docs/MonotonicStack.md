@@ -1,6 +1,6 @@
 # 🏷️ MonotonicStack Pattern
 
-**Total Problems Solved in this Category:** `2`
+**Total Problems Solved in this Category:** `3`
 
 [⬅️ Back to Portfolio README](../README.md) | [📚 All Problems (Sorted by ID)](AllProblems.md) | [📊 View Statistics](../stats/progress.md)
 
@@ -9,6 +9,7 @@
 | Problem | Difficulty | Primary Tags | Solution Link | LeetCode Link |
 | :--- | :---: | :--- | :---: | :---: |
 | [316. Remove Duplicate Letters](../316-remove-duplicate-letters/) | ![Medium](https://img.shields.io/badge/-Medium-orange) | String, Stack, Greedy | [View Solution](../316-remove-duplicate-letters/remove-duplicate-letters.java) | [LeetCode Problem](https://leetcode.com/problems/remove-duplicate-letters/) |
+| [496. Next Greater Element I](../496-next-greater-element-i/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Array, Hash Table, Stack | [View Solution](../496-next-greater-element-i/next-greater-element-i.java) | [LeetCode Problem](https://leetcode.com/problems/next-greater-element-i/) |
 | [1019. Next Greater Node In Linked List](../1072-next-greater-node-in-linked-list/) | ![Medium](https://img.shields.io/badge/-Medium-orange) | Array, Linked List, Stack | [View Solution](../1072-next-greater-node-in-linked-list/next-greater-node-in-linked-list.java) | [LeetCode Problem](https://leetcode.com/problems/next-greater-node-in-linked-list/) |
 
 ---

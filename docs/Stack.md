@@ -1,6 +1,6 @@
 # 🏷️ Stack Pattern
 
-**Total Problems Solved in this Category:** `9`
+**Total Problems Solved in this Category:** `10`
 
 [⬅️ Back to Portfolio README](../README.md) | [📚 All Problems (Sorted by ID)](AllProblems.md) | [📊 View Statistics](../stats/progress.md)
 
@@ -13,6 +13,7 @@
 | [232. Implement Queue using Stacks](../232-implement-queue-using-stacks/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Stack, Design, Queue | [View Solution](../232-implement-queue-using-stacks/implement-queue-using-stacks.java) | [LeetCode Problem](https://leetcode.com/problems/implement-queue-using-stacks/) |
 | [316. Remove Duplicate Letters](../316-remove-duplicate-letters/) | ![Medium](https://img.shields.io/badge/-Medium-orange) | String, Stack, Greedy | [View Solution](../316-remove-duplicate-letters/remove-duplicate-letters.java) | [LeetCode Problem](https://leetcode.com/problems/remove-duplicate-letters/) |
 | [394. Decode String](../394-decode-string/) | ![Medium](https://img.shields.io/badge/-Medium-orange) | String, Stack, Recursion | [View Solution](../394-decode-string/decode-string.java) | [LeetCode Problem](https://leetcode.com/problems/decode-string/) |
+| [496. Next Greater Element I](../496-next-greater-element-i/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Array, Hash Table, Stack | [View Solution](../496-next-greater-element-i/next-greater-element-i.java) | [LeetCode Problem](https://leetcode.com/problems/next-greater-element-i/) |
 | [921. Minimum Add to Make Parentheses Valid](../957-minimum-add-to-make-parentheses-valid/) | ![Medium](https://img.shields.io/badge/-Medium-orange) | String, Stack, Greedy | [View Solution](../957-minimum-add-to-make-parentheses-valid/minimum-add-to-make-parentheses-valid.java) | [LeetCode Problem](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/) |
 | [1019. Next Greater Node In Linked List](../1072-next-greater-node-in-linked-list/) | ![Medium](https://img.shields.io/badge/-Medium-orange) | Array, Linked List, Stack | [View Solution](../1072-next-greater-node-in-linked-list/next-greater-node-in-linked-list.java) | [LeetCode Problem](https://leetcode.com/problems/next-greater-node-in-linked-list/) |
 | [1047. Remove All Adjacent Duplicates In String](../1128-remove-all-adjacent-duplicates-in-string/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | String, Stack | [View Solution](../1128-remove-all-adjacent-duplicates-in-string/remove-all-adjacent-duplicates-in-string.java) | [LeetCode Problem](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) |

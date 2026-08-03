@@ -1,6 +1,6 @@
 # 🏷️ Easy Problems
 
-**Total Problems Solved in this Category:** `55`
+**Total Problems Solved in this Category:** `56`
 
 [⬅️ Back to Portfolio README](../README.md) | [📚 All Problems (Sorted by ID)](AllProblems.md) | [📊 View Statistics](../stats/progress.md)
 
@@ -42,6 +42,7 @@
 | [326. Power of Three](../326-power-of-three/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Math, Recursion | [View Solution](../326-power-of-three/power-of-three.java) | [LeetCode Problem](https://leetcode.com/problems/power-of-three/) |
 | [344. Reverse String](../344-reverse-string/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Two Pointers, String | [View Solution](../344-reverse-string/reverse-string.java) | [LeetCode Problem](https://leetcode.com/problems/reverse-string/) |
 | [387. First Unique Character in a String](../387-first-unique-character-in-a-string/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Hash Table, String, Queue | [View Solution](../387-first-unique-character-in-a-string/first-unique-character-in-a-string.java) | [LeetCode Problem](https://leetcode.com/problems/first-unique-character-in-a-string/) |
+| [496. Next Greater Element I](../496-next-greater-element-i/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Array, Hash Table, Stack | [View Solution](../496-next-greater-element-i/next-greater-element-i.java) | [LeetCode Problem](https://leetcode.com/problems/next-greater-element-i/) |
 | [617. Merge Two Binary Trees](../617-merge-two-binary-trees/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Tree, Depth-First Search, Breadth-First Search | [View Solution](../617-merge-two-binary-trees/merge-two-binary-trees.java) | [LeetCode Problem](https://leetcode.com/problems/merge-two-binary-trees/) |
 | [643. Maximum Average Subarray I](../643-maximum-average-subarray-i/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Array, Sliding Window | [View Solution](../643-maximum-average-subarray-i/maximum-average-subarray-i.java) | [LeetCode Problem](https://leetcode.com/problems/maximum-average-subarray-i/) |
 | [700. Search in a Binary Search Tree](../783-search-in-a-binary-search-tree/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Tree, Binary Search Tree, Binary Tree | [View Solution](../783-search-in-a-binary-search-tree/search-in-a-binary-search-tree.java) | [LeetCode Problem](https://leetcode.com/problems/search-in-a-binary-search-tree/) |

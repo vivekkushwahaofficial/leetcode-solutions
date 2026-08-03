@@ -6,9 +6,9 @@
 
 ## 🏆 Overall Solved Summary
 
-- **Total Solved:** `96`
-- 🟢 **Easy:** `55` (57.3%)
-- 🟠 **Medium:** `40` (41.7%)
+- **Total Solved:** `97`
+- 🟢 **Easy:** `56` (57.7%)
+- 🟠 **Medium:** `40` (41.2%)
 - 🔴 **Hard:** `1` (1.0%)
 
 ---
@@ -17,7 +17,7 @@
 
 ```mermaid
 pie title Problem Difficulty Breakdown
-    "Easy" : 55
+    "Easy" : 56
     "Medium" : 40
     "Hard" : 1
 ```
@@ -33,7 +33,7 @@ pie title Problem Difficulty Breakdown
 | 2026-04 | 3 | 56 |
 | 2026-06 | 8 | 64 |
 | 2026-07 | 30 | 94 |
-| 2026-08 | 2 | 96 |
+| 2026-08 | 3 | 97 |
 
 ---
 
@@ -50,7 +50,7 @@ pie title Problem Difficulty Breakdown
 | 2026-W28 | 9 |
 | 2026-W29 | 6 |
 | 2026-W30 | 6 |
-| 2026-W31 | 1 |
+| 2026-W31 | 2 |
 
 ---
 
@@ -58,6 +58,7 @@ pie title Problem Difficulty Breakdown
 
 | # | Problem Title | Difficulty | Primary Tags | Solution Link | Date Added |
 | :---: | :--- | :---: | :--- | :---: | :---: |
+| 496 | [496. Next Greater Element I](../496-next-greater-element-i/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Array, Hash Table, Stack | [View Solution](../496-next-greater-element-i/next-greater-element-i.java) | 2026-08-03 |
 | 1630 | [1630. Count Odd Numbers in an Interval Range](../1630-count-odd-numbers-in-an-interval-range/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Math | [View Solution](../1630-count-odd-numbers-in-an-interval-range/count-odd-numbers-in-an-interval-range.java) | 2026-08-02 |
 | 232 | [232. Implement Queue using Stacks](../232-implement-queue-using-stacks/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Stack, Design, Queue | [View Solution](../232-implement-queue-using-stacks/implement-queue-using-stacks.java) | 2026-08-01 |
 | 1047 | [1047. Remove All Adjacent Duplicates In String](../1128-remove-all-adjacent-duplicates-in-string/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | String, Stack | [View Solution](../1128-remove-all-adjacent-duplicates-in-string/remove-all-adjacent-duplicates-in-string.java) | 2026-07-31 |
@@ -77,7 +78,6 @@ pie title Problem Difficulty Breakdown
 | 9 | [9. Palindrome Number](../9-palindrome-number/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Math | [View Solution](../9-palindrome-number/palindrome-number.java) | 2026-07-15 |
 | 1749 | [1749. Maximum Absolute Sum of Any Subarray](../1849-maximum-absolute-sum-of-any-subarray/) | ![Medium](https://img.shields.io/badge/-Medium-orange) | Array, Dynamic Programming | [View Solution](../1849-maximum-absolute-sum-of-any-subarray/maximum-absolute-sum-of-any-subarray.java) | 2026-07-14 |
 | 1186 | [1186. Maximum Subarray Sum with One Deletion](../1288-maximum-subarray-sum-with-one-deletion/) | ![Medium](https://img.shields.io/badge/-Medium-orange) | Array, Dynamic Programming | [View Solution](../1288-maximum-subarray-sum-with-one-deletion/maximum-subarray-sum-with-one-deletion.java) | 2026-07-14 |
-| 152 | [152. Maximum Product Subarray](../152-maximum-product-subarray/) | ![Medium](https://img.shields.io/badge/-Medium-orange) | Array, Dynamic Programming | [View Solution](../152-maximum-product-subarray/maximum-product-subarray.java) | 2026-07-13 |
 
 ---
 

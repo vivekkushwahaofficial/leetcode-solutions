@@ -583,6 +583,17 @@
     ],
     "title": "Move Zeroes"
   },
+  "next-greater-element-i": {
+    "difficulty": "Easy",
+    "id": 496,
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Stack",
+      "Monotonic Stack"
+    ],
+    "title": "Next Greater Element I"
+  },
   "next-greater-node-in-linked-list": {
     "difficulty": "Medium",
     "id": 1019,

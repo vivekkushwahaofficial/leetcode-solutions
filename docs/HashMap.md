@@ -1,6 +1,6 @@
 # 🏷️ HashMap Pattern
 
-**Total Problems Solved in this Category:** `17`
+**Total Problems Solved in this Category:** `18`
 
 [⬅️ Back to Portfolio README](../README.md) | [📚 All Problems (Sorted by ID)](AllProblems.md) | [📊 View Statistics](../stats/progress.md)
 
@@ -19,6 +19,7 @@
 | [217. Contains Duplicate](../217-contains-duplicate/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Array, Hash Table, Sorting | [View Solution](../217-contains-duplicate/contains-duplicate.java) | [LeetCode Problem](https://leetcode.com/problems/contains-duplicate/) |
 | [242. Valid Anagram](../242-valid-anagram/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Hash Table, String, Sorting | [View Solution](../242-valid-anagram/valid-anagram.java) | [LeetCode Problem](https://leetcode.com/problems/valid-anagram/) |
 | [387. First Unique Character in a String](../387-first-unique-character-in-a-string/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Hash Table, String, Queue | [View Solution](../387-first-unique-character-in-a-string/first-unique-character-in-a-string.java) | [LeetCode Problem](https://leetcode.com/problems/first-unique-character-in-a-string/) |
+| [496. Next Greater Element I](../496-next-greater-element-i/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Array, Hash Table, Stack | [View Solution](../496-next-greater-element-i/next-greater-element-i.java) | [LeetCode Problem](https://leetcode.com/problems/next-greater-element-i/) |
 | [525. Contiguous Array](../525-contiguous-array/) | ![Medium](https://img.shields.io/badge/-Medium-orange) | Array, Hash Table, Prefix Sum | [View Solution](../525-contiguous-array/contiguous-array.java) | [LeetCode Problem](https://leetcode.com/problems/contiguous-array/) |
 | [560. Subarray Sum Equals K](../560-subarray-sum-equals-k/) | ![Medium](https://img.shields.io/badge/-Medium-orange) | Array, Hash Table, Prefix Sum | [View Solution](../560-subarray-sum-equals-k/subarray-sum-equals-k.java) | [LeetCode Problem](https://leetcode.com/problems/subarray-sum-equals-k/) |
 | [771. Jewels and Stones](../782-jewels-and-stones/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Hash Table, String | [View Solution](../782-jewels-and-stones/jewels-and-stones.java) | [LeetCode Problem](https://leetcode.com/problems/jewels-and-stones/) |
