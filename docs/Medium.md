@@ -1,6 +1,6 @@
 # 🏷️ Medium Problems
 
-**Total Problems Solved in this Category:** `40`
+**Total Problems Solved in this Category:** `41`
 
 [⬅️ Back to Portfolio README](../README.md) | [📚 All Problems (Sorted by ID)](AllProblems.md) | [📊 View Statistics](../stats/progress.md)
 
@@ -9,6 +9,7 @@
 | Problem | Difficulty | Primary Tags | Solution Link | LeetCode Link |
 | :--- | :---: | :--- | :---: | :---: |
 | [2. Add Two Numbers](../2-add-two-numbers/) | ![Medium](https://img.shields.io/badge/-Medium-orange) | Linked List, Math, Recursion | [View Solution](../2-add-two-numbers/add-two-numbers.java) | [LeetCode Problem](https://leetcode.com/problems/add-two-numbers/) |
+| [7. Reverse Integer](../7-reverse-integer/) | ![Medium](https://img.shields.io/badge/-Medium-orange) | Math | [View Solution](../7-reverse-integer/reverse-integer.java) | [LeetCode Problem](https://leetcode.com/problems/reverse-integer/) |
 | [19. Remove Nth Node From End of List](../19-remove-nth-node-from-end-of-list/) | ![Medium](https://img.shields.io/badge/-Medium-orange) | Linked List, Two Pointers | [View Solution](../19-remove-nth-node-from-end-of-list/remove-nth-node-from-end-of-list.java) | [LeetCode Problem](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) |
 | [48. Rotate Image](../48-rotate-image/) | ![Medium](https://img.shields.io/badge/-Medium-orange) | Array, Math, Matrix | [View Solution](../48-rotate-image/rotate-image.java) | [LeetCode Problem](https://leetcode.com/problems/rotate-image/) |
 | [53. Maximum Subarray](../53-maximum-subarray/) | ![Medium](https://img.shields.io/badge/-Medium-orange) | Array, Divide and Conquer, Dynamic Programming | [View Solution](../53-maximum-subarray/maximum-subarray.java) | [LeetCode Problem](https://leetcode.com/problems/maximum-subarray/) |

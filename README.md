@@ -4,9 +4,9 @@
 
 ### Automated, Structured & Pattern-Categorized Algorithm Solutions
 
-![Total Solved](https://img.shields.io/badge/Total%20Solved-97-blue?style=for-the-badge&logo=leetcode)
-![Easy](https://img.shields.io/badge/Easy-56-brightgreen?style=for-the-badge)
-![Medium](https://img.shields.io/badge/Medium-40-orange?style=for-the-badge)
+![Total Solved](https://img.shields.io/badge/Total%20Solved-99-blue?style=for-the-badge&logo=leetcode)
+![Easy](https://img.shields.io/badge/Easy-57-brightgreen?style=for-the-badge)
+![Medium](https://img.shields.io/badge/Medium-41-orange?style=for-the-badge)
 ![Hard](https://img.shields.io/badge/Hard-1-red?style=for-the-badge)
 ![Auto Updated](https://img.shields.io/badge/Status-Auto%20Updated-success?style=for-the-badge&logo=githubactions)
 
@@ -27,14 +27,14 @@
 
 ## 📊 Progress Overview
 
-**LeetCode Journey Target Progress:** `[█░░░░░░░░░░░░░░░░░░░░░░░░] 97/3500 (2.8%)`
+**LeetCode Journey Target Progress:** `[█░░░░░░░░░░░░░░░░░░░░░░░░] 99/3500 (2.8%)`
 
 | Metric | Count | Percentage | Documentation |
 | :--- | :---: | :---: | :---: |
-| 🟢 **Easy** | 56 | 57.7% | [View Easy Solutions](docs/Easy.md) |
-| 🟠 **Medium** | 40 | 41.2% | [View Medium Solutions](docs/Medium.md) |
+| 🟢 **Easy** | 57 | 57.6% | [View Easy Solutions](docs/Easy.md) |
+| 🟠 **Medium** | 41 | 41.4% | [View Medium Solutions](docs/Medium.md) |
 | 🔴 **Hard** | 1 | 1.0% | [View Hard Solutions](docs/Hard.md) |
-| 🏆 **Total** | **97** | **100.0%** | [All Problems Index](docs/AllProblems.md) | [Full Stats](stats/progress.md) |
+| 🏆 **Total** | **99** | **100.0%** | [All Problems Index](docs/AllProblems.md) | [Full Stats](stats/progress.md) |
 
 ---
 
@@ -73,7 +73,7 @@ Explore problems grouped by algorithmic pattern and data structure:
 | 🏷️ **Backtracking** | 1 | [View Backtracking Solutions](docs/Backtracking.md) |
 | 🏷️ **DynamicProgramming** | 6 | [View DynamicProgramming Solutions](docs/DynamicProgramming.md) |
 | 🏷️ **BitManipulation** | 2 | [View BitManipulation Solutions](docs/BitManipulation.md) |
-| 🏷️ **Math** | 10 | [View Math Solutions](docs/Math.md) |
+| 🏷️ **Math** | 12 | [View Math Solutions](docs/Math.md) |
 | 🏷️ **PrefixSum** | 7 | [View PrefixSum Solutions](docs/PrefixSum.md) |
 | 🏷️ **Intervals** | 0 | [View Intervals Solutions](docs/Intervals.md) |
 | 🏷️ **Matrix** | 5 | [View Matrix Solutions](docs/Matrix.md) |
@@ -89,6 +89,8 @@ Explore problems grouped by algorithmic pattern and data structure:
 
 | # | Problem Title | Difficulty | Solution | Date Added |
 | :---: | :--- | :---: | :---: | :---: |
+| 258 | [258. Add Digits](258-add-digits/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | [Solution](258-add-digits/add-digits.java) | 2026-08-07 |
+| 7 | [7. Reverse Integer](7-reverse-integer/) | ![Medium](https://img.shields.io/badge/-Medium-orange) | [Solution](7-reverse-integer/reverse-integer.java) | 2026-08-07 |
 | 496 | [496. Next Greater Element I](496-next-greater-element-i/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | [Solution](496-next-greater-element-i/next-greater-element-i.java) | 2026-08-03 |
 | 1630 | [1630. Count Odd Numbers in an Interval Range](1630-count-odd-numbers-in-an-interval-range/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | [Solution](1630-count-odd-numbers-in-an-interval-range/count-odd-numbers-in-an-interval-range.java) | 2026-08-02 |
 | 232 | [232. Implement Queue using Stacks](232-implement-queue-using-stacks/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | [Solution](232-implement-queue-using-stacks/implement-queue-using-stacks.java) | 2026-08-01 |
@@ -97,8 +99,6 @@ Explore problems grouped by algorithmic pattern and data structure:
 | 771 | [771. Jewels and Stones](782-jewels-and-stones/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | [Solution](782-jewels-and-stones/jewels-and-stones.java) | 2026-07-29 |
 | 205 | [205. Isomorphic Strings](205-isomorphic-strings/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | [Solution](205-isomorphic-strings/isomorphic-strings.java) | 2026-07-29 |
 | 387 | [387. First Unique Character in a String](387-first-unique-character-in-a-string/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | [Solution](387-first-unique-character-in-a-string/first-unique-character-in-a-string.java) | 2026-07-26 |
-| 344 | [344. Reverse String](344-reverse-string/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | [Solution](344-reverse-string/reverse-string.java) | 2026-07-25 |
-| 974 | [974. Subarray Sums Divisible by K](1016-subarray-sums-divisible-by-k/) | ![Medium](https://img.shields.io/badge/-Medium-orange) | [Solution](1016-subarray-sums-divisible-by-k/subarray-sums-divisible-by-k.java) | 2026-07-24 |
 
 ---
 

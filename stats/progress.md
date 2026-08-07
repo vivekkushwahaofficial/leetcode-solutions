@@ -6,9 +6,9 @@
 
 ## 🏆 Overall Solved Summary
 
-- **Total Solved:** `97`
-- 🟢 **Easy:** `56` (57.7%)
-- 🟠 **Medium:** `40` (41.2%)
+- **Total Solved:** `99`
+- 🟢 **Easy:** `57` (57.6%)
+- 🟠 **Medium:** `41` (41.4%)
 - 🔴 **Hard:** `1` (1.0%)
 
 ---
@@ -17,8 +17,8 @@
 
 ```mermaid
 pie title Problem Difficulty Breakdown
-    "Easy" : 56
-    "Medium" : 40
+    "Easy" : 57
+    "Medium" : 41
     "Hard" : 1
 ```
 
@@ -33,7 +33,7 @@ pie title Problem Difficulty Breakdown
 | 2026-04 | 3 | 56 |
 | 2026-06 | 8 | 64 |
 | 2026-07 | 30 | 94 |
-| 2026-08 | 3 | 97 |
+| 2026-08 | 5 | 99 |
 
 ---
 
@@ -50,7 +50,7 @@ pie title Problem Difficulty Breakdown
 | 2026-W28 | 9 |
 | 2026-W29 | 6 |
 | 2026-W30 | 6 |
-| 2026-W31 | 2 |
+| 2026-W31 | 4 |
 
 ---
 
@@ -58,6 +58,8 @@ pie title Problem Difficulty Breakdown
 
 | # | Problem Title | Difficulty | Primary Tags | Solution Link | Date Added |
 | :---: | :--- | :---: | :--- | :---: | :---: |
+| 258 | [258. Add Digits](../258-add-digits/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Math, Simulation, Number Theory | [View Solution](../258-add-digits/add-digits.java) | 2026-08-07 |
+| 7 | [7. Reverse Integer](../7-reverse-integer/) | ![Medium](https://img.shields.io/badge/-Medium-orange) | Math | [View Solution](../7-reverse-integer/reverse-integer.java) | 2026-08-07 |
 | 496 | [496. Next Greater Element I](../496-next-greater-element-i/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Array, Hash Table, Stack | [View Solution](../496-next-greater-element-i/next-greater-element-i.java) | 2026-08-03 |
 | 1630 | [1630. Count Odd Numbers in an Interval Range](../1630-count-odd-numbers-in-an-interval-range/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Math | [View Solution](../1630-count-odd-numbers-in-an-interval-range/count-odd-numbers-in-an-interval-range.java) | 2026-08-02 |
 | 232 | [232. Implement Queue using Stacks](../232-implement-queue-using-stacks/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Stack, Design, Queue | [View Solution](../232-implement-queue-using-stacks/implement-queue-using-stacks.java) | 2026-08-01 |
@@ -76,8 +78,6 @@ pie title Problem Difficulty Breakdown
 | 1480 | [1480. Running Sum of 1d Array](../1603-running-sum-of-1d-array/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Array, Prefix Sum | [View Solution](../1603-running-sum-of-1d-array/running-sum-of-1d-array.java) | 2026-07-16 |
 | 918 | [918. Maximum Sum Circular Subarray](../954-maximum-sum-circular-subarray/) | ![Medium](https://img.shields.io/badge/-Medium-orange) | Array, Divide and Conquer, Dynamic Programming | [View Solution](../954-maximum-sum-circular-subarray/maximum-sum-circular-subarray.java) | 2026-07-15 |
 | 9 | [9. Palindrome Number](../9-palindrome-number/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Math | [View Solution](../9-palindrome-number/palindrome-number.java) | 2026-07-15 |
-| 1749 | [1749. Maximum Absolute Sum of Any Subarray](../1849-maximum-absolute-sum-of-any-subarray/) | ![Medium](https://img.shields.io/badge/-Medium-orange) | Array, Dynamic Programming | [View Solution](../1849-maximum-absolute-sum-of-any-subarray/maximum-absolute-sum-of-any-subarray.java) | 2026-07-14 |
-| 1186 | [1186. Maximum Subarray Sum with One Deletion](../1288-maximum-subarray-sum-with-one-deletion/) | ![Medium](https://img.shields.io/badge/-Medium-orange) | Array, Dynamic Programming | [View Solution](../1288-maximum-subarray-sum-with-one-deletion/maximum-subarray-sum-with-one-deletion.java) | 2026-07-14 |
 
 ---
 

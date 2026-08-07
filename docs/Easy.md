@@ -1,6 +1,6 @@
 # 🏷️ Easy Problems
 
-**Total Problems Solved in this Category:** `56`
+**Total Problems Solved in this Category:** `57`
 
 [⬅️ Back to Portfolio README](../README.md) | [📚 All Problems (Sorted by ID)](AllProblems.md) | [📊 View Statistics](../stats/progress.md)
 
@@ -37,6 +37,7 @@
 | [232. Implement Queue using Stacks](../232-implement-queue-using-stacks/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Stack, Design, Queue | [View Solution](../232-implement-queue-using-stacks/implement-queue-using-stacks.java) | [LeetCode Problem](https://leetcode.com/problems/implement-queue-using-stacks/) |
 | [242. Valid Anagram](../242-valid-anagram/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Hash Table, String, Sorting | [View Solution](../242-valid-anagram/valid-anagram.java) | [LeetCode Problem](https://leetcode.com/problems/valid-anagram/) |
 | [257. Binary Tree Paths](../257-binary-tree-paths/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | String, Backtracking, Tree | [View Solution](../257-binary-tree-paths/binary-tree-paths.java) | [LeetCode Problem](https://leetcode.com/problems/binary-tree-paths/) |
+| [258. Add Digits](../258-add-digits/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Math, Simulation, Number Theory | [View Solution](../258-add-digits/add-digits.java) | [LeetCode Problem](https://leetcode.com/problems/add-digits/) |
 | [263. Ugly Number](../263-ugly-number/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Math | [View Solution](../263-ugly-number/ugly-number.java) | [LeetCode Problem](https://leetcode.com/problems/ugly-number/) |
 | [283. Move Zeroes](../283-move-zeroes/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Array, Two Pointers | [View Solution](../283-move-zeroes/move-zeroes.java) | [LeetCode Problem](https://leetcode.com/problems/move-zeroes/) |
 | [326. Power of Three](../326-power-of-three/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Math, Recursion | [View Solution](../326-power-of-three/power-of-three.java) | [LeetCode Problem](https://leetcode.com/problems/power-of-three/) |

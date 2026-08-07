@@ -1,6 +1,6 @@
 # 📚 All Problems (Sorted Numerically by Problem ID)
 
-**Total Problems Solved:** `97`
+**Total Problems Solved:** `99`
 
 [⬅️ Back to Portfolio README](../README.md) | [🟢 Easy](Easy.md) | [🟠 Medium](Medium.md) | [🔴 Hard](Hard.md) | [📊 View Statistics](../stats/progress.md)
 
@@ -10,6 +10,7 @@
 | --: | :--- | :---: | :--- | :---: | :---: |
 | 1 | [1. Two Sum](../1-two-sum/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Array, Hash Table | [View Solution](../1-two-sum/two-sum.java) | [LeetCode Problem](https://leetcode.com/problems/two-sum/) |
 | 2 | [2. Add Two Numbers](../2-add-two-numbers/) | ![Medium](https://img.shields.io/badge/-Medium-orange) | Linked List, Math, Recursion | [View Solution](../2-add-two-numbers/add-two-numbers.java) | [LeetCode Problem](https://leetcode.com/problems/add-two-numbers/) |
+| 7 | [7. Reverse Integer](../7-reverse-integer/) | ![Medium](https://img.shields.io/badge/-Medium-orange) | Math | [View Solution](../7-reverse-integer/reverse-integer.java) | [LeetCode Problem](https://leetcode.com/problems/reverse-integer/) |
 | 9 | [9. Palindrome Number](../9-palindrome-number/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Math | [View Solution](../9-palindrome-number/palindrome-number.java) | [LeetCode Problem](https://leetcode.com/problems/palindrome-number/) |
 | 19 | [19. Remove Nth Node From End of List](../19-remove-nth-node-from-end-of-list/) | ![Medium](https://img.shields.io/badge/-Medium-orange) | Linked List, Two Pointers | [View Solution](../19-remove-nth-node-from-end-of-list/remove-nth-node-from-end-of-list.java) | [LeetCode Problem](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) |
 | 20 | [20. Valid Parentheses](../20-valid-parentheses/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | String, Stack | [View Solution](../20-valid-parentheses/valid-parentheses.java) | [LeetCode Problem](https://leetcode.com/problems/valid-parentheses/) |
@@ -59,6 +60,7 @@
 | 237 | [237. Delete Node in a Linked List](../237-delete-node-in-a-linked-list/) | ![Medium](https://img.shields.io/badge/-Medium-orange) | Linked List | [View Solution](../237-delete-node-in-a-linked-list/delete-node-in-a-linked-list.java) | [LeetCode Problem](https://leetcode.com/problems/delete-node-in-a-linked-list/) |
 | 242 | [242. Valid Anagram](../242-valid-anagram/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Hash Table, String, Sorting | [View Solution](../242-valid-anagram/valid-anagram.java) | [LeetCode Problem](https://leetcode.com/problems/valid-anagram/) |
 | 257 | [257. Binary Tree Paths](../257-binary-tree-paths/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | String, Backtracking, Tree, Depth-First Search, Binary Tree | [View Solution](../257-binary-tree-paths/binary-tree-paths.java) | [LeetCode Problem](https://leetcode.com/problems/binary-tree-paths/) |
+| 258 | [258. Add Digits](../258-add-digits/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Math, Simulation, Number Theory | [View Solution](../258-add-digits/add-digits.java) | [LeetCode Problem](https://leetcode.com/problems/add-digits/) |
 | 263 | [263. Ugly Number](../263-ugly-number/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Math | [View Solution](../263-ugly-number/ugly-number.java) | [LeetCode Problem](https://leetcode.com/problems/ugly-number/) |
 | 283 | [283. Move Zeroes](../283-move-zeroes/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Array, Two Pointers | [View Solution](../283-move-zeroes/move-zeroes.java) | [LeetCode Problem](https://leetcode.com/problems/move-zeroes/) |
 | 287 | [287. Find the Duplicate Number](../287-find-the-duplicate-number/) | ![Medium](https://img.shields.io/badge/-Medium-orange) | Array, Two Pointers, Binary Search, Bit Manipulation | [View Solution](../287-find-the-duplicate-number/find-the-duplicate-number.java) | [LeetCode Problem](https://leetcode.com/problems/find-the-duplicate-number/) |

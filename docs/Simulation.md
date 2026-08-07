@@ -1,6 +1,6 @@
 # 🏷️ Simulation Pattern
 
-**Total Problems Solved in this Category:** `3`
+**Total Problems Solved in this Category:** `4`
 
 [⬅️ Back to Portfolio README](../README.md) | [📚 All Problems (Sorted by ID)](AllProblems.md) | [📊 View Statistics](../stats/progress.md)
 
@@ -9,6 +9,7 @@
 | Problem | Difficulty | Primary Tags | Solution Link | LeetCode Link |
 | :--- | :---: | :--- | :---: | :---: |
 | [59. Spiral Matrix II](../59-spiral-matrix-ii/) | ![Medium](https://img.shields.io/badge/-Medium-orange) | Array, Matrix, Simulation | [View Solution](../59-spiral-matrix-ii/spiral-matrix-ii.java) | [LeetCode Problem](https://leetcode.com/problems/spiral-matrix-ii/) |
+| [258. Add Digits](../258-add-digits/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Math, Simulation, Number Theory | [View Solution](../258-add-digits/add-digits.java) | [LeetCode Problem](https://leetcode.com/problems/add-digits/) |
 | [867. Transpose Matrix](../898-transpose-matrix/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Array, Matrix, Simulation | [View Solution](../898-transpose-matrix/transpose-matrix.java) | [LeetCode Problem](https://leetcode.com/problems/transpose-matrix/) |
 | [2181. Merge Nodes in Between Zeros](../2299-merge-nodes-in-between-zeros/) | ![Medium](https://img.shields.io/badge/-Medium-orange) | Linked List, Simulation | [View Solution](../2299-merge-nodes-in-between-zeros/merge-nodes-in-between-zeros.java) | [LeetCode Problem](https://leetcode.com/problems/merge-nodes-in-between-zeros/) |
 

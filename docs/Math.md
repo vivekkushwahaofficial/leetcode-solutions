@@ -1,6 +1,6 @@
 # 🏷️ Math Pattern
 
-**Total Problems Solved in this Category:** `10`
+**Total Problems Solved in this Category:** `12`
 
 [⬅️ Back to Portfolio README](../README.md) | [📚 All Problems (Sorted by ID)](AllProblems.md) | [📊 View Statistics](../stats/progress.md)
 
@@ -9,11 +9,13 @@
 | Problem | Difficulty | Primary Tags | Solution Link | LeetCode Link |
 | :--- | :---: | :--- | :---: | :---: |
 | [2. Add Two Numbers](../2-add-two-numbers/) | ![Medium](https://img.shields.io/badge/-Medium-orange) | Linked List, Math, Recursion | [View Solution](../2-add-two-numbers/add-two-numbers.java) | [LeetCode Problem](https://leetcode.com/problems/add-two-numbers/) |
+| [7. Reverse Integer](../7-reverse-integer/) | ![Medium](https://img.shields.io/badge/-Medium-orange) | Math | [View Solution](../7-reverse-integer/reverse-integer.java) | [LeetCode Problem](https://leetcode.com/problems/reverse-integer/) |
 | [9. Palindrome Number](../9-palindrome-number/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Math | [View Solution](../9-palindrome-number/palindrome-number.java) | [LeetCode Problem](https://leetcode.com/problems/palindrome-number/) |
 | [48. Rotate Image](../48-rotate-image/) | ![Medium](https://img.shields.io/badge/-Medium-orange) | Array, Math, Matrix | [View Solution](../48-rotate-image/rotate-image.java) | [LeetCode Problem](https://leetcode.com/problems/rotate-image/) |
 | [69. Sqrt(x)](../69-sqrtx/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Math, Binary Search | [View Solution](../69-sqrtx/sqrtx.java) | [LeetCode Problem](https://leetcode.com/problems/sqrtx/) |
 | [70. Climbing Stairs](../70-climbing-stairs/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Math, Dynamic Programming, Memoization | [View Solution](../70-climbing-stairs/climbing-stairs.java) | [LeetCode Problem](https://leetcode.com/problems/climbing-stairs/) |
 | [202. Happy Number](../202-happy-number/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Hash Table, Math, Two Pointers | [View Solution](../202-happy-number/happy-number.java) | [LeetCode Problem](https://leetcode.com/problems/happy-number/) |
+| [258. Add Digits](../258-add-digits/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Math, Simulation, Number Theory | [View Solution](../258-add-digits/add-digits.java) | [LeetCode Problem](https://leetcode.com/problems/add-digits/) |
 | [263. Ugly Number](../263-ugly-number/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Math | [View Solution](../263-ugly-number/ugly-number.java) | [LeetCode Problem](https://leetcode.com/problems/ugly-number/) |
 | [326. Power of Three](../326-power-of-three/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Math, Recursion | [View Solution](../326-power-of-three/power-of-three.java) | [LeetCode Problem](https://leetcode.com/problems/power-of-three/) |
 | [1630. Count Odd Numbers in an Interval Range](../1630-count-odd-numbers-in-an-interval-range/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Math | [View Solution](../1630-count-odd-numbers-in-an-interval-range/count-odd-numbers-in-an-interval-range.java) | [LeetCode Problem](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/) |
